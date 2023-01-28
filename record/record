@@ -1,0 +1,87 @@
+#####BiSeNetV2######################################
+IoU for each class:
+_background_:0.9742825796904591,
+centerline:0.69001800614161,
+edgeline:0.6805442471059205,
+precision for test: 0.976
+mIoU for validation: 0.782
+
+##########----AGNet----########################
+IoU for each class:
+_background_:0.9767498818335222,
+centerline:0.692757237287611,
+edgeline:0.7062874758460627,
+precision for test: 0.978
+mIoU for validation: 0.792
+
+##########---BiSeNet----#########################
+IoU for each class:
+_background_:0.9755553378156232,
+centerline:0.7024723997197558,
+edgeline:0.6919417329432782,
+precision for test: 0.977
+mIoU for validation: 0.790
+
+#########----LMFFNet----######################
+IoU for each class:
+_background_:0.9655697715573709,
+centerline:0.6297166045393663,
+edgeline:0.6143543553705,
+precision for test: 0.967
+mIoU for validation: 0.737
+
+########----SSFPN----#####################
+IoU for each class:
+_background_:0.9788185424054442,
+centerline:0.7383967061496465,
+edgeline:0.7154378708388422,
+precision for test: 0.980
+mIoU for validation: 0.811
+
+#########----STDCNet----######################
+IoU for each class:
+_background_:0.975802597369904,
+centerline:0.7122245791970416,
+edgeline:0.6947025841287487,
+precision for test: 0.977
+mIoU for validation: 0.794
+
+###########----SPFNet----#########################
+IoU for each class:
+_background_:0.9774891754329071,
+centerline:0.7301189318001372,
+edgeline:0.7041929187540551,
+precision for test: 0.979
+mIoU for validation: 0.804
+
+###########----DDRNet----#########################
+IoU for each class:
+_background_:0.9769171863115407,
+centerline:0.7211714529334395,
+edgeline:0.7011121497259643,
+precision for test: 0.978
+mIoU for validation: 0.800
+
+##############------FastSCNN------##############
+IoU for each class:
+_background_:0.971211472940955,
+centerline:0.6810498184364596,
+edgeline:0.6464138371983414,
+precision for test: 0.973
+mIoU for validation: 0.766
+
+###########----UNet----#########################
+IoU for each class:
+_background_:0.9807389470577167,
+centerline:0.7412464210927953,
+edgeline:0.7342167355853314,
+precision for test: 0.982
+mIoU for validation: 0.819
+
+###########----FCNs----#########################
+IoU for each class:
+_background_:0.9643854048315169,
+centerline:0.662995443910455,
+edgeline:0.5650965998909421,
+precision for test: 0.966
+mIoU for validation: 0.731

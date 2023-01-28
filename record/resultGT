@@ -1,0 +1,2503 @@
+D:\Environment\Anaconda\envs\segment\python.exe D:/Code/CodePycharm/Deep_Learning/segment/BiSeNet11-master/train.py
+epoch 0, lr 0.025000: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.135461]
+loss for train : 0.285955
+start val!
+precision per pixel for test: 0.9387
+mIoU for validation: 0.5432
+epoch 1, lr 0.024955: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.076287]
+loss for train : 0.132773
+start val!
+precision per pixel for test: 0.9240
+mIoU for validation: 0.5745
+epoch 2, lr 0.024910: 100%|██████████| 3672/3672 [03:43<00:00, 16.46it/s, loss=0.105771]
+loss for train : 0.110361
+start val!
+precision per pixel for test: 0.9057
+mIoU for validation: 0.5707
+epoch 3, lr 0.024865: 100%|██████████| 3672/3672 [03:42<00:00, 16.51it/s, loss=0.101364]
+loss for train : 0.098892
+start val!
+precision per pixel for test: 0.9093
+mIoU for validation: 0.5966
+epoch 4, lr 0.024820: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.076428]
+loss for train : 0.088296
+start val!
+epoch 5, lr 0.024775:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.8922
+mIoU for validation: 0.5763
+epoch 5, lr 0.024775: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.067873]
+loss for train : 0.083077
+start val!
+precision per pixel for test: 0.9020
+mIoU for validation: 0.5835
+epoch 6, lr 0.024730: 100%|██████████| 3672/3672 [03:41<00:00, 16.55it/s, loss=0.073642]
+loss for train : 0.077007
+start val!
+epoch 7, lr 0.024685:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9130
+mIoU for validation: 0.5788
+epoch 7, lr 0.024685: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.073413]
+loss for train : 0.074562
+start val!
+precision per pixel for test: 0.9068
+mIoU for validation: 0.6205
+epoch 8, lr 0.024640: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.075922]
+loss for train : 0.070683
+start val!
+precision per pixel for test: 0.9197
+mIoU for validation: 0.6084
+epoch 9, lr 0.024595: 100%|██████████| 3672/3672 [03:39<00:00, 16.69it/s, loss=0.133939]
+loss for train : 0.071477
+start val!
+precision per pixel for test: 0.9179
+mIoU for validation: 0.6191
+epoch 10, lr 0.024550: 100%|██████████| 3672/3672 [03:39<00:00, 16.69it/s, loss=0.030240]
+loss for train : 0.066979
+start val!
+precision per pixel for test: 0.9173
+mIoU for validation: 0.6089
+epoch 11, lr 0.024504: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.099208]
+loss for train : 0.065705
+start val!
+precision per pixel for test: 0.8992
+mIoU for validation: 0.5843
+epoch 12, lr 0.024459: 100%|██████████| 3672/3672 [03:39<00:00, 16.69it/s, loss=0.038499]
+loss for train : 0.063708
+start val!
+precision per pixel for test: 0.9218
+mIoU for validation: 0.6377
+epoch 13, lr 0.024414: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.052522]
+loss for train : 0.062415
+start val!
+precision per pixel for test: 0.9245
+mIoU for validation: 0.6423
+epoch 14, lr 0.024369: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.110938]
+loss for train : 0.060824
+start val!
+epoch 15, lr 0.024324:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9279
+mIoU for validation: 0.6186
+epoch 15, lr 0.024324: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.082399]
+loss for train : 0.060906
+start val!
+precision per pixel for test: 0.9240
+mIoU for validation: 0.6526
+epoch 16, lr 0.024279: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.087562]
+loss for train : 0.059352
+start val!
+precision per pixel for test: 0.9340
+mIoU for validation: 0.6729
+epoch 17, lr 0.024234: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.086546]
+loss for train : 0.057766
+start val!
+precision per pixel for test: 0.9375
+mIoU for validation: 0.6706
+epoch 18, lr 0.024189: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.037799]
+loss for train : 0.056019
+start val!
+precision per pixel for test: 0.9357
+mIoU for validation: 0.6930
+epoch 19, lr 0.024143: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.036517]
+loss for train : 0.056488
+start val!
+precision per pixel for test: 0.9391
+mIoU for validation: 0.7068
+epoch 20, lr 0.024098: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.046065]
+loss for train : 0.054966
+start val!
+precision per pixel for test: 0.9050
+mIoU for validation: 0.5678
+epoch 21, lr 0.024053: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.044161]
+loss for train : 0.054801
+start val!
+epoch 22, lr 0.024008:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9340
+mIoU for validation: 0.6894
+epoch 22, lr 0.024008: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.056356]
+loss for train : 0.053287
+start val!
+precision per pixel for test: 0.9307
+mIoU for validation: 0.6670
+epoch 23, lr 0.023963: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.078952]
+loss for train : 0.051853
+start val!
+epoch 24, lr 0.023917:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9356
+mIoU for validation: 0.6749
+epoch 24, lr 0.023917: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.062180]
+loss for train : 0.052781
+start val!
+precision per pixel for test: 0.9293
+mIoU for validation: 0.6421
+epoch 25, lr 0.023872: 100%|██████████| 3672/3672 [03:42<00:00, 16.47it/s, loss=0.034330]
+loss for train : 0.051983
+start val!
+precision per pixel for test: 0.9347
+mIoU for validation: 0.6877
+epoch 26, lr 0.023827: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.071852]
+loss for train : 0.051272
+start val!
+precision per pixel for test: 0.9425
+mIoU for validation: 0.6852
+epoch 27, lr 0.023782: 100%|██████████| 3672/3672 [03:47<00:00, 16.14it/s, loss=0.045399]
+loss for train : 0.051955
+start val!
+precision per pixel for test: 0.9423
+mIoU for validation: 0.7114
+epoch 28, lr 0.023736: 100%|██████████| 3672/3672 [04:01<00:00, 15.20it/s, loss=0.035492]
+loss for train : 0.049975
+start val!
+precision per pixel for test: 0.9451
+mIoU for validation: 0.7231
+epoch 29, lr 0.023691: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.041498]
+loss for train : 0.050900
+start val!
+precision per pixel for test: 0.9491
+mIoU for validation: 0.7293
+epoch 30, lr 0.023646: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.039016]
+loss for train : 0.049279
+start val!
+precision per pixel for test: 0.9467
+mIoU for validation: 0.7360
+epoch 31, lr 0.023601: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.035575]
+loss for train : 0.048710
+start val!
+precision per pixel for test: 0.9386
+mIoU for validation: 0.7232
+epoch 32, lr 0.023555: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.047625]
+loss for train : 0.048529
+start val!
+epoch 33, lr 0.023510:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9469
+mIoU for validation: 0.7032
+epoch 33, lr 0.023510: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.068740]
+loss for train : 0.048747
+start val!
+precision per pixel for test: 0.9300
+mIoU for validation: 0.6805
+epoch 34, lr 0.023465: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.047863]
+loss for train : 0.047544
+start val!
+precision per pixel for test: 0.9378
+mIoU for validation: 0.7149
+epoch 35, lr 0.023419: 100%|██████████| 3672/3672 [03:39<00:00, 16.69it/s, loss=0.030836]
+loss for train : 0.046456
+start val!
+precision per pixel for test: 0.9374
+mIoU for validation: 0.7019
+epoch 36, lr 0.023374: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.082835]
+loss for train : 0.047689
+start val!
+precision per pixel for test: 0.9501
+mIoU for validation: 0.7225
+epoch 37, lr 0.023329: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.057176]
+loss for train : 0.045990
+start val!
+precision per pixel for test: 0.9489
+mIoU for validation: 0.7319
+epoch 38, lr 0.023283: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.031215]
+loss for train : 0.046946
+start val!
+precision per pixel for test: 0.9454
+mIoU for validation: 0.7250
+epoch 39, lr 0.023238: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.037438]
+loss for train : 0.046279
+start val!
+precision per pixel for test: 0.9526
+mIoU for validation: 0.7331
+epoch 40, lr 0.023193: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.051942]
+loss for train : 0.045882
+start val!
+precision per pixel for test: 0.9449
+mIoU for validation: 0.7311
+epoch 41, lr 0.023147: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.030563]
+loss for train : 0.045735
+start val!
+precision per pixel for test: 0.9485
+mIoU for validation: 0.7144
+epoch 42, lr 0.023102: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.044612]
+loss for train : 0.044188
+start val!
+precision per pixel for test: 0.9444
+mIoU for validation: 0.7057
+epoch 43, lr 0.023056: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.055875]
+loss for train : 0.044819
+start val!
+precision per pixel for test: 0.9553
+mIoU for validation: 0.7580
+epoch 44, lr 0.023011: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.061149]
+loss for train : 0.045458
+start val!
+precision per pixel for test: 0.9482
+mIoU for validation: 0.6834
+epoch 45, lr 0.022966: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.039823]
+loss for train : 0.043893
+start val!
+precision per pixel for test: 0.9494
+mIoU for validation: 0.7260
+epoch 46, lr 0.022920: 100%|██████████| 3672/3672 [03:41<00:00, 16.58it/s, loss=0.032877]
+loss for train : 0.044635
+start val!
+precision per pixel for test: 0.9493
+mIoU for validation: 0.7356
+epoch 47, lr 0.022875: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.022744]
+loss for train : 0.043834
+start val!
+precision per pixel for test: 0.9498
+mIoU for validation: 0.7394
+epoch 48, lr 0.022829: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.037312]
+loss for train : 0.044712
+start val!
+precision per pixel for test: 0.9525
+mIoU for validation: 0.7446
+epoch 49, lr 0.022784: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.038926]
+loss for train : 0.044317
+start val!
+precision per pixel for test: 0.9512
+mIoU for validation: 0.7497
+epoch 50, lr 0.022738: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.034288]
+loss for train : 0.042465
+start val!
+precision per pixel for test: 0.9357
+mIoU for validation: 0.7315
+epoch 51, lr 0.022693: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.050468]
+loss for train : 0.043633
+start val!
+precision per pixel for test: 0.9500
+mIoU for validation: 0.7535
+epoch 52, lr 0.022647: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.045374]
+loss for train : 0.044019
+start val!
+precision per pixel for test: 0.9447
+mIoU for validation: 0.7383
+epoch 53, lr 0.022602: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.025641]
+loss for train : 0.044007
+start val!
+epoch 54, lr 0.022556:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9356
+mIoU for validation: 0.6395
+epoch 54, lr 0.022556: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.043634]
+loss for train : 0.042759
+start val!
+epoch 55, lr 0.022511:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9435
+mIoU for validation: 0.7287
+epoch 55, lr 0.022511: 100%|██████████| 3672/3672 [03:41<00:00, 16.55it/s, loss=0.056046]
+loss for train : 0.044352
+start val!
+precision per pixel for test: 0.9286
+mIoU for validation: 0.6813
+epoch 56, lr 0.022465: 100%|██████████| 3672/3672 [03:42<00:00, 16.53it/s, loss=0.082274]
+loss for train : 0.043033
+start val!
+precision per pixel for test: 0.9554
+mIoU for validation: 0.7657
+epoch 57, lr 0.022420: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.030059]
+loss for train : 0.042452
+start val!
+epoch 58, lr 0.022374:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9471
+mIoU for validation: 0.7572
+epoch 58, lr 0.022374: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.033327]
+loss for train : 0.041941
+start val!
+precision per pixel for test: 0.9524
+mIoU for validation: 0.7556
+epoch 59, lr 0.022329: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.071062]
+loss for train : 0.042622
+start val!
+precision per pixel for test: 0.9569
+mIoU for validation: 0.7620
+epoch 60, lr 0.022283: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.036396]
+loss for train : 0.042340
+start val!
+precision per pixel for test: 0.9517
+mIoU for validation: 0.7586
+epoch 61, lr 0.022237: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.151649]
+loss for train : 0.041120
+start val!
+precision per pixel for test: 0.9609
+mIoU for validation: 0.7777
+epoch 62, lr 0.022192: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.070192]
+loss for train : 0.043131
+start val!
+precision per pixel for test: 0.9536
+mIoU for validation: 0.7687
+epoch 63, lr 0.022146: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.026524]
+loss for train : 0.041328
+start val!
+precision per pixel for test: 0.9514
+mIoU for validation: 0.7457
+epoch 64, lr 0.022101: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.023884]
+loss for train : 0.040802
+start val!
+epoch 65, lr 0.022055:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9469
+mIoU for validation: 0.7543
+epoch 65, lr 0.022055: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.039976]
+loss for train : 0.041041
+start val!
+precision per pixel for test: 0.9503
+mIoU for validation: 0.7475
+epoch 66, lr 0.022009: 100%|██████████| 3672/3672 [03:42<00:00, 16.49it/s, loss=0.046975]
+loss for train : 0.042291
+start val!
+precision per pixel for test: 0.9597
+mIoU for validation: 0.7839
+epoch 67, lr 0.021964: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.027571]
+loss for train : 0.042222
+start val!
+epoch 68, lr 0.021918:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9558
+mIoU for validation: 0.7447
+epoch 68, lr 0.021918: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.039030]
+loss for train : 0.041122
+start val!
+precision per pixel for test: 0.9536
+mIoU for validation: 0.7470
+epoch 69, lr 0.021872: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.037730]
+loss for train : 0.040475
+start val!
+precision per pixel for test: 0.9452
+mIoU for validation: 0.7499
+epoch 70, lr 0.021827: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.039871]
+loss for train : 0.041415
+start val!
+precision per pixel for test: 0.9489
+mIoU for validation: 0.7481
+epoch 71, lr 0.021781: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.048612]
+loss for train : 0.042080
+start val!
+precision per pixel for test: 0.9586
+mIoU for validation: 0.7706
+epoch 72, lr 0.021735: 100%|██████████| 3672/3672 [03:39<00:00, 16.69it/s, loss=0.045178]
+loss for train : 0.041799
+start val!
+epoch 73, lr 0.021690:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9469
+mIoU for validation: 0.7467
+epoch 73, lr 0.021690: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.048428]
+loss for train : 0.040967
+start val!
+precision per pixel for test: 0.9573
+mIoU for validation: 0.7640
+epoch 74, lr 0.021644: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.024926]
+loss for train : 0.041633
+start val!
+epoch 75, lr 0.021598:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9544
+mIoU for validation: 0.7626
+epoch 75, lr 0.021598: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.037388]
+loss for train : 0.039914
+start val!
+epoch 76, lr 0.021552:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9606
+mIoU for validation: 0.7804
+epoch 76, lr 0.021552: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.020535]
+loss for train : 0.040889
+start val!
+precision per pixel for test: 0.9627
+mIoU for validation: 0.7845
+epoch 77, lr 0.021507: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.033980]
+loss for train : 0.040041
+start val!
+precision per pixel for test: 0.9559
+mIoU for validation: 0.7843
+epoch 78, lr 0.021461: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.026189]
+loss for train : 0.041043
+start val!
+precision per pixel for test: 0.9552
+mIoU for validation: 0.7761
+epoch 79, lr 0.021415: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.029599]
+loss for train : 0.040548
+start val!
+precision per pixel for test: 0.9598
+mIoU for validation: 0.7911
+epoch 80, lr 0.021369: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.089749]
+loss for train : 0.041242
+start val!
+epoch 81, lr 0.021324:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9530
+mIoU for validation: 0.7309
+epoch 81, lr 0.021324: 100%|██████████| 3672/3672 [03:41<00:00, 16.58it/s, loss=0.023780]
+loss for train : 0.040027
+start val!
+epoch 82, lr 0.021278:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9571
+mIoU for validation: 0.7740
+epoch 82, lr 0.021278: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.026491]
+loss for train : 0.040076
+start val!
+epoch 83, lr 0.021232:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9590
+mIoU for validation: 0.7704
+epoch 83, lr 0.021232: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.041536]
+loss for train : 0.040985
+start val!
+precision per pixel for test: 0.9630
+mIoU for validation: 0.7800
+epoch 84, lr 0.021186: 100%|██████████| 3672/3672 [03:41<00:00, 16.58it/s, loss=0.064288]
+loss for train : 0.039301
+start val!
+precision per pixel for test: 0.9588
+mIoU for validation: 0.7796
+epoch 85, lr 0.021140: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.031901]
+loss for train : 0.039817
+start val!
+epoch 86, lr 0.021094:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9511
+mIoU for validation: 0.7366
+epoch 86, lr 0.021094: 100%|██████████| 3672/3672 [03:43<00:00, 16.44it/s, loss=0.024985]
+loss for train : 0.041220
+start val!
+precision per pixel for test: 0.9588
+mIoU for validation: 0.7753
+epoch 87, lr 0.021049: 100%|██████████| 3672/3672 [03:42<00:00, 16.54it/s, loss=0.035274]
+loss for train : 0.039876
+start val!
+precision per pixel for test: 0.9568
+mIoU for validation: 0.7633
+epoch 88, lr 0.021003: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.051048]
+loss for train : 0.040169
+start val!
+epoch 89, lr 0.020957:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9474
+mIoU for validation: 0.7614
+epoch 89, lr 0.020957: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.023625]
+loss for train : 0.038945
+start val!
+precision per pixel for test: 0.9463
+mIoU for validation: 0.7176
+epoch 90, lr 0.020911: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.054557]
+loss for train : 0.039215
+start val!
+epoch 91, lr 0.020865:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9571
+mIoU for validation: 0.7907
+epoch 91, lr 0.020865: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.034278]
+loss for train : 0.039915
+start val!
+epoch 92, lr 0.020819:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9600
+mIoU for validation: 0.7649
+epoch 92, lr 0.020819: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.040784]
+loss for train : 0.039334
+start val!
+precision per pixel for test: 0.9594
+mIoU for validation: 0.7750
+epoch 93, lr 0.020773: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.075112]
+loss for train : 0.039577
+start val!
+epoch 94, lr 0.020727:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9635
+mIoU for validation: 0.7776
+epoch 94, lr 0.020727: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.027488]
+loss for train : 0.039321
+start val!
+precision per pixel for test: 0.9621
+mIoU for validation: 0.7907
+epoch 95, lr 0.020681: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.040375]
+loss for train : 0.038968
+start val!
+precision per pixel for test: 0.9619
+mIoU for validation: 0.7719
+epoch 96, lr 0.020635: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.053748]
+loss for train : 0.038364
+start val!
+precision per pixel for test: 0.9625
+mIoU for validation: 0.7918
+epoch 97, lr 0.020589: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.049546]
+loss for train : 0.038636
+start val!
+precision per pixel for test: 0.9659
+mIoU for validation: 0.7954
+epoch 98, lr 0.020543: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.024975]
+loss for train : 0.039713
+start val!
+epoch 99, lr 0.020497:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9602
+mIoU for validation: 0.7860
+epoch 99, lr 0.020497: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.029645]
+loss for train : 0.038946
+start val!
+precision per pixel for test: 0.9612
+mIoU for validation: 0.7807
+epoch 100, lr 0.020451: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.022708]
+loss for train : 0.039391
+start val!
+precision per pixel for test: 0.9574
+mIoU for validation: 0.7865
+epoch 101, lr 0.020405: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.033303]
+loss for train : 0.039283
+start val!
+precision per pixel for test: 0.9627
+mIoU for validation: 0.8050
+epoch 102, lr 0.020359: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.028342]
+loss for train : 0.038344
+start val!
+precision per pixel for test: 0.9639
+mIoU for validation: 0.7885
+epoch 103, lr 0.020313: 100%|██████████| 3672/3672 [03:41<00:00, 16.55it/s, loss=0.028355]
+loss for train : 0.038351
+start val!
+epoch 104, lr 0.020267:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9637
+mIoU for validation: 0.8016
+epoch 104, lr 0.020267: 100%|██████████| 3672/3672 [03:43<00:00, 16.42it/s, loss=0.025972]
+loss for train : 0.039112
+start val!
+precision per pixel for test: 0.9608
+mIoU for validation: 0.7747
+epoch 105, lr 0.020221: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.023987]
+loss for train : 0.038393
+start val!
+precision per pixel for test: 0.9589
+mIoU for validation: 0.7756
+epoch 106, lr 0.020175: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.055718]
+loss for train : 0.039762
+start val!
+precision per pixel for test: 0.9496
+mIoU for validation: 0.7472
+epoch 107, lr 0.020129: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.018256]
+loss for train : 0.039058
+start val!
+precision per pixel for test: 0.9624
+mIoU for validation: 0.7882
+epoch 108, lr 0.020083: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.081088]
+loss for train : 0.038728
+start val!
+epoch 109, lr 0.020037:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9645
+mIoU for validation: 0.7927
+epoch 109, lr 0.020037: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.046802]
+loss for train : 0.037698
+start val!
+precision per pixel for test: 0.9610
+mIoU for validation: 0.7590
+epoch 110, lr 0.019991: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.034204]
+loss for train : 0.038071
+start val!
+precision per pixel for test: 0.9563
+mIoU for validation: 0.7670
+epoch 111, lr 0.019944: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.039045]
+loss for train : 0.037880
+start val!
+precision per pixel for test: 0.9611
+mIoU for validation: 0.7984
+epoch 112, lr 0.019898: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.040930]
+loss for train : 0.039192
+start val!
+precision per pixel for test: 0.9586
+mIoU for validation: 0.7864
+epoch 113, lr 0.019852: 100%|██████████| 3672/3672 [03:41<00:00, 16.57it/s, loss=0.028149]
+loss for train : 0.037478
+start val!
+precision per pixel for test: 0.9599
+mIoU for validation: 0.7833
+epoch 114, lr 0.019806: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.027042]
+loss for train : 0.039041
+start val!
+epoch 115, lr 0.019760:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9631
+mIoU for validation: 0.7942
+epoch 115, lr 0.019760: 100%|██████████| 3672/3672 [03:43<00:00, 16.45it/s, loss=0.037848]
+loss for train : 0.037749
+start val!
+precision per pixel for test: 0.9634
+mIoU for validation: 0.7718
+epoch 116, lr 0.019714: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.028598]
+loss for train : 0.038015
+start val!
+precision per pixel for test: 0.9588
+mIoU for validation: 0.7930
+epoch 117, lr 0.019667: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.017850]
+loss for train : 0.037177
+start val!
+precision per pixel for test: 0.9681
+mIoU for validation: 0.8027
+epoch 118, lr 0.019621: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.021038]
+loss for train : 0.037067
+start val!
+precision per pixel for test: 0.9637
+mIoU for validation: 0.7797
+epoch 119, lr 0.019575: 100%|██████████| 3672/3672 [03:42<00:00, 16.52it/s, loss=0.021980]
+loss for train : 0.038247
+start val!
+epoch 120, lr 0.019529:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9643
+mIoU for validation: 0.7863
+epoch 120, lr 0.019529: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.035074]
+loss for train : 0.040074
+start val!
+epoch 121, lr 0.019482:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9658
+mIoU for validation: 0.7942
+epoch 121, lr 0.019482: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.041405]
+loss for train : 0.038057
+start val!
+precision per pixel for test: 0.9515
+mIoU for validation: 0.7550
+epoch 122, lr 0.019436: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.016014]
+loss for train : 0.037302
+start val!
+epoch 123, lr 0.019390:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9615
+mIoU for validation: 0.7924
+epoch 123, lr 0.019390: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.042389]
+loss for train : 0.037932
+start val!
+epoch 124, lr 0.019344:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9581
+mIoU for validation: 0.7681
+epoch 124, lr 0.019344: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.030553]
+loss for train : 0.038444
+start val!
+precision per pixel for test: 0.9586
+mIoU for validation: 0.8006
+epoch 125, lr 0.019297: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.033285]
+loss for train : 0.039109
+start val!
+epoch 126, lr 0.019251:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9648
+mIoU for validation: 0.7828
+epoch 126, lr 0.019251: 100%|██████████| 3672/3672 [03:41<00:00, 16.58it/s, loss=0.044728]
+loss for train : 0.036932
+start val!
+precision per pixel for test: 0.9664
+mIoU for validation: 0.7909
+epoch 127, lr 0.019205: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.033788]
+loss for train : 0.038000
+start val!
+precision per pixel for test: 0.9651
+mIoU for validation: 0.7905
+epoch 128, lr 0.019158: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.035532]
+loss for train : 0.037014
+start val!
+epoch 129, lr 0.019112:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9658
+mIoU for validation: 0.8024
+epoch 129, lr 0.019112: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.020559]
+loss for train : 0.037468
+start val!
+precision per pixel for test: 0.9670
+mIoU for validation: 0.8098
+epoch 130, lr 0.019066: 100%|██████████| 3672/3672 [03:41<00:00, 16.58it/s, loss=0.031497]
+loss for train : 0.037221
+start val!
+precision per pixel for test: 0.9654
+mIoU for validation: 0.7896
+epoch 131, lr 0.019019: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.029549]
+loss for train : 0.037507
+start val!
+precision per pixel for test: 0.9567
+mIoU for validation: 0.7525
+epoch 132, lr 0.018973: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.110399]
+loss for train : 0.038714
+start val!
+epoch 133, lr 0.018926:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9582
+mIoU for validation: 0.7810
+epoch 133, lr 0.018926: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.043529]
+loss for train : 0.037931
+start val!
+precision per pixel for test: 0.9630
+mIoU for validation: 0.7814
+epoch 134, lr 0.018880: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.039978]
+loss for train : 0.038342
+start val!
+epoch 135, lr 0.018833:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9653
+mIoU for validation: 0.7736
+epoch 135, lr 0.018833: 100%|██████████| 3672/3672 [03:43<00:00, 16.46it/s, loss=0.028670]
+loss for train : 0.038646
+start val!
+precision per pixel for test: 0.9600
+mIoU for validation: 0.7811
+epoch 136, lr 0.018787: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.072079]
+loss for train : 0.036918
+start val!
+precision per pixel for test: 0.9679
+mIoU for validation: 0.8002
+epoch 137, lr 0.018741: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.026444]
+loss for train : 0.036785
+start val!
+precision per pixel for test: 0.9666
+mIoU for validation: 0.7957
+epoch 138, lr 0.018694: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.034620]
+loss for train : 0.037428
+start val!
+epoch 139, lr 0.018648:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9651
+mIoU for validation: 0.7766
+epoch 139, lr 0.018648: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.021465]
+loss for train : 0.037194
+start val!
+precision per pixel for test: 0.9582
+mIoU for validation: 0.7759
+epoch 140, lr 0.018601: 100%|██████████| 3672/3672 [03:41<00:00, 16.56it/s, loss=0.032594]
+loss for train : 0.037293
+start val!
+epoch 141, lr 0.018555:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9642
+mIoU for validation: 0.7895
+epoch 141, lr 0.018555: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.021099]
+loss for train : 0.036740
+start val!
+epoch 142, lr 0.018508:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9663
+mIoU for validation: 0.7939
+epoch 142, lr 0.018508: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.031072]
+loss for train : 0.036464
+start val!
+precision per pixel for test: 0.9592
+mIoU for validation: 0.7668
+epoch 143, lr 0.018462: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.018898]
+loss for train : 0.036941
+start val!
+precision per pixel for test: 0.9600
+mIoU for validation: 0.7677
+epoch 144, lr 0.018415: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.037739]
+loss for train : 0.037834
+start val!
+epoch 145, lr 0.018368:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9623
+mIoU for validation: 0.7988
+epoch 145, lr 0.018368: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.029819]
+loss for train : 0.037697
+start val!
+precision per pixel for test: 0.9652
+mIoU for validation: 0.7911
+epoch 146, lr 0.018322: 100%|██████████| 3672/3672 [03:41<00:00, 16.56it/s, loss=0.032861]
+loss for train : 0.036723
+start val!
+precision per pixel for test: 0.9539
+mIoU for validation: 0.7278
+epoch 147, lr 0.018275: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.029515]
+loss for train : 0.037690
+start val!
+epoch 148, lr 0.018229:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9607
+mIoU for validation: 0.7697
+epoch 148, lr 0.018229: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.021913]
+loss for train : 0.036848
+start val!
+epoch 149, lr 0.018182:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9659
+mIoU for validation: 0.7907
+epoch 149, lr 0.018182: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.040837]
+loss for train : 0.037760
+start val!
+precision per pixel for test: 0.9682
+mIoU for validation: 0.8068
+epoch 150, lr 0.018135: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.020736]
+loss for train : 0.037734
+start val!
+precision per pixel for test: 0.9601
+mIoU for validation: 0.7775
+epoch 151, lr 0.018089: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.025913]
+loss for train : 0.037056
+start val!
+precision per pixel for test: 0.9679
+mIoU for validation: 0.8054
+epoch 152, lr 0.018042: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.053046]
+loss for train : 0.037120
+start val!
+precision per pixel for test: 0.9576
+mIoU for validation: 0.7574
+epoch 153, lr 0.017995: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.055848]
+loss for train : 0.036997
+start val!
+precision per pixel for test: 0.9692
+mIoU for validation: 0.7978
+epoch 154, lr 0.017949: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.027688]
+loss for train : 0.036344
+start val!
+epoch 155, lr 0.017902:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9639
+mIoU for validation: 0.7936
+epoch 155, lr 0.017902: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.012327]
+loss for train : 0.036108
+start val!
+precision per pixel for test: 0.9644
+mIoU for validation: 0.7989
+epoch 156, lr 0.017855: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.030174]
+loss for train : 0.036128
+start val!
+precision per pixel for test: 0.9589
+mIoU for validation: 0.7783
+epoch 157, lr 0.017809: 100%|██████████| 3672/3672 [03:42<00:00, 16.52it/s, loss=0.054249]
+loss for train : 0.036589
+start val!
+precision per pixel for test: 0.9600
+mIoU for validation: 0.7849
+epoch 158, lr 0.017762: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.047919]
+loss for train : 0.037729
+start val!
+epoch 159, lr 0.017715:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9632
+mIoU for validation: 0.7827
+epoch 159, lr 0.017715: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.020869]
+loss for train : 0.036664
+start val!
+precision per pixel for test: 0.9644
+mIoU for validation: 0.7835
+epoch 160, lr 0.017668: 100%|██████████| 3672/3672 [03:52<00:00, 15.77it/s, loss=0.027062]
+loss for train : 0.036639
+start val!
+precision per pixel for test: 0.9636
+mIoU for validation: 0.7866
+epoch 161, lr 0.017622: 100%|██████████| 3672/3672 [03:56<00:00, 15.49it/s, loss=0.074385]
+loss for train : 0.037182
+start val!
+precision per pixel for test: 0.9677
+mIoU for validation: 0.7997
+epoch 162, lr 0.017575: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.057073]
+loss for train : 0.036906
+start val!
+epoch 163, lr 0.017528:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9556
+mIoU for validation: 0.7607
+epoch 163, lr 0.017528: 100%|██████████| 3672/3672 [03:39<00:00, 16.76it/s, loss=0.027168]
+loss for train : 0.036040
+start val!
+precision per pixel for test: 0.9567
+mIoU for validation: 0.7126
+epoch 164, lr 0.017481: 100%|██████████| 3672/3672 [03:41<00:00, 16.55it/s, loss=0.023239]
+loss for train : 0.037286
+start val!
+epoch 165, lr 0.017434:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9669
+mIoU for validation: 0.8038
+epoch 165, lr 0.017434: 100%|██████████| 3672/3672 [03:39<00:00, 16.76it/s, loss=0.031818]
+loss for train : 0.035868
+start val!
+precision per pixel for test: 0.9657
+mIoU for validation: 0.8106
+epoch 166, lr 0.017388: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.032157]
+loss for train : 0.036479
+start val!
+precision per pixel for test: 0.9638
+mIoU for validation: 0.7940
+epoch 167, lr 0.017341: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.021843]
+loss for train : 0.036249
+start val!
+precision per pixel for test: 0.9650
+mIoU for validation: 0.7940
+epoch 168, lr 0.017294: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.027873]
+loss for train : 0.036333
+start val!
+precision per pixel for test: 0.9633
+mIoU for validation: 0.7897
+epoch 169, lr 0.017247: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.064892]
+loss for train : 0.037484
+start val!
+precision per pixel for test: 0.9680
+mIoU for validation: 0.8025
+epoch 170, lr 0.017200: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.031934]
+loss for train : 0.036591
+start val!
+epoch 171, lr 0.017153:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9686
+mIoU for validation: 0.7959
+epoch 171, lr 0.017153: 100%|██████████| 3672/3672 [03:39<00:00, 16.76it/s, loss=0.017264]
+loss for train : 0.035490
+start val!
+epoch 172, lr 0.017106:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9663
+mIoU for validation: 0.7956
+epoch 172, lr 0.017106: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.046151]
+loss for train : 0.036522
+start val!
+precision per pixel for test: 0.9656
+mIoU for validation: 0.8146
+epoch 173, lr 0.017059: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.072696]
+loss for train : 0.036650
+start val!
+precision per pixel for test: 0.9658
+mIoU for validation: 0.7811
+epoch 174, lr 0.017012: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.033472]
+loss for train : 0.036837
+start val!
+precision per pixel for test: 0.9627
+mIoU for validation: 0.7712
+epoch 175, lr 0.016965: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.034298]
+loss for train : 0.037025
+start val!
+epoch 176, lr 0.016918:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9665
+mIoU for validation: 0.7693
+epoch 176, lr 0.016918: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.035341]
+loss for train : 0.036220
+start val!
+precision per pixel for test: 0.9666
+mIoU for validation: 0.7833
+epoch 177, lr 0.016871: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.047161]
+loss for train : 0.035526
+start val!
+epoch 178, lr 0.016824:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9587
+mIoU for validation: 0.7912
+epoch 178, lr 0.016824: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.040825]
+loss for train : 0.035831
+start val!
+epoch 179, lr 0.016777:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9646
+mIoU for validation: 0.7722
+epoch 179, lr 0.016777: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.032398]
+loss for train : 0.036267
+start val!
+epoch 180, lr 0.016730:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9658
+mIoU for validation: 0.7900
+epoch 180, lr 0.016730: 100%|██████████| 3672/3672 [03:41<00:00, 16.54it/s, loss=0.055120]
+loss for train : 0.037057
+start val!
+epoch 181, lr 0.016683:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9605
+mIoU for validation: 0.7635
+epoch 181, lr 0.016683: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.053426]
+loss for train : 0.035951
+start val!
+precision per pixel for test: 0.9625
+mIoU for validation: 0.7874
+epoch 182, lr 0.016636: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.048534]
+loss for train : 0.037081
+start val!
+epoch 183, lr 0.016589:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9614
+mIoU for validation: 0.7439
+epoch 183, lr 0.016589: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.033482]
+loss for train : 0.036288
+start val!
+epoch 184, lr 0.016542:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9634
+mIoU for validation: 0.7985
+epoch 184, lr 0.016542: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.054634]
+loss for train : 0.036248
+start val!
+precision per pixel for test: 0.9665
+mIoU for validation: 0.7980
+epoch 185, lr 0.016495: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.037658]
+loss for train : 0.037039
+start val!
+precision per pixel for test: 0.9666
+mIoU for validation: 0.7982
+epoch 186, lr 0.016448: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.030417]
+loss for train : 0.034938
+start val!
+epoch 187, lr 0.016400:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9657
+mIoU for validation: 0.7861
+epoch 187, lr 0.016400: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.036100]
+loss for train : 0.035943
+start val!
+precision per pixel for test: 0.9691
+mIoU for validation: 0.8157
+epoch 188, lr 0.016353: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.032470]
+loss for train : 0.035569
+start val!
+precision per pixel for test: 0.9628
+mIoU for validation: 0.7793
+epoch 189, lr 0.016306: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.022729]
+loss for train : 0.035695
+start val!
+epoch 190, lr 0.016259:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9688
+mIoU for validation: 0.7919
+epoch 190, lr 0.016259: 100%|██████████| 3672/3672 [03:42<00:00, 16.54it/s, loss=0.036128]
+loss for train : 0.035568
+start val!
+epoch 191, lr 0.016212:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9672
+mIoU for validation: 0.7955
+epoch 191, lr 0.016212: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.040176]
+loss for train : 0.035937
+start val!
+precision per pixel for test: 0.9661
+mIoU for validation: 0.7921
+epoch 192, lr 0.016165: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.033326]
+loss for train : 0.036856
+start val!
+precision per pixel for test: 0.9636
+mIoU for validation: 0.7775
+epoch 193, lr 0.016117: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.029339]
+loss for train : 0.036389
+start val!
+epoch 194, lr 0.016070:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9671
+mIoU for validation: 0.7904
+epoch 194, lr 0.016070: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.034408]
+loss for train : 0.034921
+start val!
+precision per pixel for test: 0.9693
+mIoU for validation: 0.7948
+epoch 195, lr 0.016023: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.043752]
+loss for train : 0.035646
+start val!
+precision per pixel for test: 0.9596
+mIoU for validation: 0.7702
+epoch 196, lr 0.015975: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.035357]
+loss for train : 0.036966
+start val!
+precision per pixel for test: 0.9709
+mIoU for validation: 0.7995
+epoch 197, lr 0.015928: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.076280]
+loss for train : 0.036562
+start val!
+precision per pixel for test: 0.9701
+mIoU for validation: 0.7840
+epoch 198, lr 0.015881: 100%|██████████| 3672/3672 [03:41<00:00, 16.56it/s, loss=0.071405]
+loss for train : 0.036390
+start val!
+precision per pixel for test: 0.9684
+mIoU for validation: 0.7950
+epoch 199, lr 0.015833: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.038816]
+loss for train : 0.035704
+start val!
+precision per pixel for test: 0.9691
+mIoU for validation: 0.8158
+epoch 200, lr 0.015786: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.025499]
+loss for train : 0.037338
+start val!
+precision per pixel for test: 0.9694
+mIoU for validation: 0.7951
+epoch 201, lr 0.015739: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.031012]
+loss for train : 0.034810
+start val!
+precision per pixel for test: 0.9668
+mIoU for validation: 0.8142
+epoch 202, lr 0.015691: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.032928]
+loss for train : 0.036779
+start val!
+epoch 203, lr 0.015644:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9593
+mIoU for validation: 0.7353
+epoch 203, lr 0.015644: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.029202]
+loss for train : 0.036139
+start val!
+precision per pixel for test: 0.9666
+mIoU for validation: 0.8060
+epoch 204, lr 0.015597: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.033961]
+loss for train : 0.035042
+start val!
+precision per pixel for test: 0.9701
+mIoU for validation: 0.8112
+epoch 205, lr 0.015549: 100%|██████████| 3672/3672 [03:41<00:00, 16.57it/s, loss=0.038222]
+loss for train : 0.036439
+start val!
+precision per pixel for test: 0.9695
+mIoU for validation: 0.8051
+epoch 206, lr 0.015502: 100%|██████████| 3672/3672 [03:41<00:00, 16.54it/s, loss=0.022566]
+loss for train : 0.036697
+start val!
+precision per pixel for test: 0.9669
+mIoU for validation: 0.7980
+epoch 207, lr 0.015454: 100%|██████████| 3672/3672 [03:44<00:00, 16.35it/s, loss=0.051090]
+loss for train : 0.034819
+start val!
+precision per pixel for test: 0.9678
+mIoU for validation: 0.7918
+epoch 208, lr 0.015407: 100%|██████████| 3672/3672 [03:38<00:00, 16.77it/s, loss=0.025810]
+loss for train : 0.036220
+start val!
+epoch 209, lr 0.015359:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9661
+mIoU for validation: 0.7891
+epoch 209, lr 0.015359: 100%|██████████| 3672/3672 [03:37<00:00, 16.85it/s, loss=0.029023]
+loss for train : 0.035200
+start val!
+epoch 210, lr 0.015312:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9634
+mIoU for validation: 0.7935
+epoch 210, lr 0.015312: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.022362]
+loss for train : 0.036368
+start val!
+precision per pixel for test: 0.9574
+mIoU for validation: 0.7746
+epoch 211, lr 0.015264: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.045620]
+loss for train : 0.035706
+start val!
+epoch 212, lr 0.015217:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9681
+mIoU for validation: 0.7986
+epoch 212, lr 0.015217: 100%|██████████| 3672/3672 [03:44<00:00, 16.37it/s, loss=0.043713]
+loss for train : 0.035631
+start val!
+epoch 213, lr 0.015169:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9664
+mIoU for validation: 0.7919
+epoch 213, lr 0.015169: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.033910]
+loss for train : 0.035553
+start val!
+precision per pixel for test: 0.9570
+mIoU for validation: 0.7703
+epoch 214, lr 0.015122: 100%|██████████| 3672/3672 [03:42<00:00, 16.47it/s, loss=0.034375]
+loss for train : 0.035845
+start val!
+precision per pixel for test: 0.9643
+mIoU for validation: 0.7577
+epoch 215, lr 0.015074: 100%|██████████| 3672/3672 [03:42<00:00, 16.52it/s, loss=0.021596]
+loss for train : 0.036054
+start val!
+precision per pixel for test: 0.9705
+mIoU for validation: 0.8194
+epoch 216, lr 0.015026: 100%|██████████| 3672/3672 [03:43<00:00, 16.46it/s, loss=0.032334]
+loss for train : 0.036576
+start val!
+precision per pixel for test: 0.9658
+mIoU for validation: 0.7993
+epoch 217, lr 0.014979: 100%|██████████| 3672/3672 [03:43<00:00, 16.45it/s, loss=0.034841]
+loss for train : 0.035171
+start val!
+precision per pixel for test: 0.9672
+mIoU for validation: 0.7883
+epoch 218, lr 0.014931: 100%|██████████| 3672/3672 [03:42<00:00, 16.48it/s, loss=0.020577]
+loss for train : 0.035811
+start val!
+precision per pixel for test: 0.9686
+mIoU for validation: 0.7867
+epoch 219, lr 0.014883: 100%|██████████| 3672/3672 [03:41<00:00, 16.56it/s, loss=0.041802]
+loss for train : 0.034866
+start val!
+precision per pixel for test: 0.9718
+mIoU for validation: 0.8229
+epoch 220, lr 0.014836: 100%|██████████| 3672/3672 [03:42<00:00, 16.48it/s, loss=0.029006]
+loss for train : 0.034754
+start val!
+precision per pixel for test: 0.9645
+mIoU for validation: 0.7888
+epoch 221, lr 0.014788: 100%|██████████| 3672/3672 [03:44<00:00, 16.38it/s, loss=0.050627]
+loss for train : 0.035827
+start val!
+precision per pixel for test: 0.9680
+mIoU for validation: 0.8037
+epoch 222, lr 0.014740: 100%|██████████| 3672/3672 [03:47<00:00, 16.15it/s, loss=0.015046]
+loss for train : 0.034847
+start val!
+precision per pixel for test: 0.9666
+mIoU for validation: 0.8108
+epoch 223, lr 0.014693: 100%|██████████| 3672/3672 [03:42<00:00, 16.47it/s, loss=0.026566]
+loss for train : 0.034989
+start val!
+precision per pixel for test: 0.9678
+mIoU for validation: 0.8007
+epoch 224, lr 0.014645: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.019097]
+loss for train : 0.035541
+start val!
+epoch 225, lr 0.014597:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9676
+mIoU for validation: 0.8090
+epoch 225, lr 0.014597: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.033607]
+loss for train : 0.035636
+start val!
+precision per pixel for test: 0.9669
+mIoU for validation: 0.7890
+epoch 226, lr 0.014549: 100%|██████████| 3672/3672 [03:41<00:00, 16.54it/s, loss=0.049761]
+loss for train : 0.035126
+start val!
+epoch 227, lr 0.014502:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9612
+mIoU for validation: 0.7813
+epoch 227, lr 0.014502: 100%|██████████| 3672/3672 [03:42<00:00, 16.52it/s, loss=0.042489]
+loss for train : 0.035939
+start val!
+precision per pixel for test: 0.9645
+mIoU for validation: 0.8011
+epoch 228, lr 0.014454: 100%|██████████| 3672/3672 [03:41<00:00, 16.56it/s, loss=0.050584]
+loss for train : 0.035163
+start val!
+precision per pixel for test: 0.9636
+mIoU for validation: 0.8003
+epoch 229, lr 0.014406: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.014053]
+loss for train : 0.034866
+start val!
+epoch 230, lr 0.014358:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9707
+mIoU for validation: 0.8088
+epoch 230, lr 0.014358: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.045669]
+loss for train : 0.035389
+start val!
+precision per pixel for test: 0.9602
+mIoU for validation: 0.7923
+epoch 231, lr 0.014310: 100%|██████████| 3672/3672 [03:50<00:00, 15.93it/s, loss=0.029613]
+loss for train : 0.035849
+start val!
+epoch 232, lr 0.014262:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9669
+mIoU for validation: 0.8029
+epoch 232, lr 0.014262: 100%|██████████| 3672/3672 [03:58<00:00, 15.38it/s, loss=0.028557]
+loss for train : 0.035294
+start val!
+precision per pixel for test: 0.9701
+mIoU for validation: 0.8045
+epoch 233, lr 0.014214: 100%|██████████| 3672/3672 [03:41<00:00, 16.58it/s, loss=0.046529]
+loss for train : 0.034914
+start val!
+precision per pixel for test: 0.9674
+mIoU for validation: 0.7971
+epoch 234, lr 0.014166: 100%|██████████| 3672/3672 [03:44<00:00, 16.35it/s, loss=0.036129]
+loss for train : 0.035417
+start val!
+epoch 235, lr 0.014118:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9663
+mIoU for validation: 0.7811
+epoch 235, lr 0.014118: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.017708]
+loss for train : 0.035073
+start val!
+epoch 236, lr 0.014071:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9668
+mIoU for validation: 0.7931
+epoch 236, lr 0.014071: 100%|██████████| 3672/3672 [03:41<00:00, 16.55it/s, loss=0.050585]
+loss for train : 0.034753
+start val!
+epoch 237, lr 0.014023:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9711
+mIoU for validation: 0.8021
+epoch 237, lr 0.014023: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.035453]
+loss for train : 0.034748
+start val!
+precision per pixel for test: 0.9666
+mIoU for validation: 0.8035
+epoch 238, lr 0.013975: 100%|██████████| 3672/3672 [03:41<00:00, 16.56it/s, loss=0.040935]
+loss for train : 0.035714
+start val!
+epoch 239, lr 0.013927:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9686
+mIoU for validation: 0.8091
+epoch 239, lr 0.013927: 100%|██████████| 3672/3672 [03:42<00:00, 16.53it/s, loss=0.016854]
+loss for train : 0.035777
+start val!
+epoch 240, lr 0.013879:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9729
+mIoU for validation: 0.8218
+epoch 240, lr 0.013879: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.040005]
+loss for train : 0.034825
+start val!
+precision per pixel for test: 0.9662
+mIoU for validation: 0.8084
+epoch 241, lr 0.013830: 100%|██████████| 3672/3672 [03:42<00:00, 16.54it/s, loss=0.049857]
+loss for train : 0.035217
+start val!
+epoch 242, lr 0.013782:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9684
+mIoU for validation: 0.8124
+epoch 242, lr 0.013782: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.032638]
+loss for train : 0.034917
+start val!
+precision per pixel for test: 0.9726
+mIoU for validation: 0.8130
+epoch 243, lr 0.013734: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.047388]
+loss for train : 0.036875
+start val!
+epoch 244, lr 0.013686:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9633
+mIoU for validation: 0.7761
+epoch 244, lr 0.013686: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.017434]
+loss for train : 0.035482
+start val!
+epoch 245, lr 0.013638:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9688
+mIoU for validation: 0.8002
+epoch 245, lr 0.013638: 100%|██████████| 3672/3672 [03:41<00:00, 16.56it/s, loss=0.035010]
+loss for train : 0.034421
+start val!
+epoch 246, lr 0.013590:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9649
+mIoU for validation: 0.7982
+epoch 246, lr 0.013590: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.041499]
+loss for train : 0.034832
+start val!
+precision per pixel for test: 0.9612
+mIoU for validation: 0.7875
+epoch 247, lr 0.013542: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.051711]
+loss for train : 0.035539
+start val!
+precision per pixel for test: 0.9708
+mIoU for validation: 0.8161
+epoch 248, lr 0.013494: 100%|██████████| 3672/3672 [03:39<00:00, 16.74it/s, loss=0.036860]
+loss for train : 0.035725
+start val!
+precision per pixel for test: 0.9603
+mIoU for validation: 0.8019
+epoch 249, lr 0.013445: 100%|██████████| 3672/3672 [03:39<00:00, 16.75it/s, loss=0.045912]
+loss for train : 0.034564
+start val!
+precision per pixel for test: 0.9663
+mIoU for validation: 0.7918
+epoch 250, lr 0.013397: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.036274]
+loss for train : 0.036292
+start val!
+epoch 251, lr 0.013349:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9691
+mIoU for validation: 0.8030
+epoch 251, lr 0.013349: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.054226]
+loss for train : 0.034500
+start val!
+precision per pixel for test: 0.9676
+mIoU for validation: 0.7861
+epoch 252, lr 0.013301: 100%|██████████| 3672/3672 [03:39<00:00, 16.77it/s, loss=0.038209]
+loss for train : 0.034883
+start val!
+precision per pixel for test: 0.9716
+mIoU for validation: 0.8110
+epoch 253, lr 0.013252: 100%|██████████| 3672/3672 [03:39<00:00, 16.75it/s, loss=0.050381]
+loss for train : 0.035025
+start val!
+epoch 254, lr 0.013204:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9692
+mIoU for validation: 0.8110
+epoch 254, lr 0.013204: 100%|██████████| 3672/3672 [03:41<00:00, 16.54it/s, loss=0.026862]
+loss for train : 0.035243
+start val!
+epoch 255, lr 0.013156:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9692
+mIoU for validation: 0.8099
+epoch 255, lr 0.013156: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.041831]
+loss for train : 0.034568
+start val!
+epoch 256, lr 0.013107:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9690
+mIoU for validation: 0.7963
+epoch 256, lr 0.013107: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.019349]
+loss for train : 0.034351
+start val!
+precision per pixel for test: 0.9689
+mIoU for validation: 0.7971
+epoch 257, lr 0.013059: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.041426]
+loss for train : 0.035025
+start val!
+precision per pixel for test: 0.9663
+mIoU for validation: 0.7537
+epoch 258, lr 0.013011: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.032391]
+loss for train : 0.034776
+start val!
+precision per pixel for test: 0.9659
+mIoU for validation: 0.7960
+epoch 259, lr 0.012962: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.034652]
+loss for train : 0.035014
+start val!
+precision per pixel for test: 0.9660
+mIoU for validation: 0.7877
+epoch 260, lr 0.012914: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.039964]
+loss for train : 0.035028
+start val!
+precision per pixel for test: 0.9660
+mIoU for validation: 0.8051
+epoch 261, lr 0.012865: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.080603]
+loss for train : 0.035096
+start val!
+precision per pixel for test: 0.9682
+mIoU for validation: 0.8007
+epoch 262, lr 0.012817: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.017339]
+loss for train : 0.035306
+start val!
+precision per pixel for test: 0.9691
+mIoU for validation: 0.8030
+epoch 263, lr 0.012769: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.032908]
+loss for train : 0.034480
+start val!
+precision per pixel for test: 0.9655
+mIoU for validation: 0.8035
+epoch 264, lr 0.012720: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.037901]
+loss for train : 0.034742
+start val!
+precision per pixel for test: 0.9657
+mIoU for validation: 0.8028
+epoch 265, lr 0.012672: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.034947]
+loss for train : 0.036286
+start val!
+epoch 266, lr 0.012623:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9701
+mIoU for validation: 0.8066
+epoch 266, lr 0.012623: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.029813]
+loss for train : 0.035349
+start val!
+precision per pixel for test: 0.9703
+mIoU for validation: 0.8098
+epoch 267, lr 0.012574: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.067527]
+loss for train : 0.034947
+start val!
+precision per pixel for test: 0.9694
+mIoU for validation: 0.8138
+epoch 268, lr 0.012526: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.038752]
+loss for train : 0.035016
+start val!
+precision per pixel for test: 0.9619
+mIoU for validation: 0.7739
+epoch 269, lr 0.012477: 100%|██████████| 3672/3672 [03:41<00:00, 16.55it/s, loss=0.038160]
+loss for train : 0.035028
+start val!
+epoch 270, lr 0.012429:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9640
+mIoU for validation: 0.7726
+epoch 270, lr 0.012429: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.023406]
+loss for train : 0.034702
+start val!
+epoch 271, lr 0.012380:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9504
+mIoU for validation: 0.7225
+epoch 271, lr 0.012380: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.017637]
+loss for train : 0.035223
+start val!
+precision per pixel for test: 0.9698
+mIoU for validation: 0.8075
+epoch 272, lr 0.012331: 100%|██████████| 3672/3672 [03:41<00:00, 16.58it/s, loss=0.022216]
+loss for train : 0.034628
+start val!
+precision per pixel for test: 0.9687
+mIoU for validation: 0.7929
+epoch 273, lr 0.012283: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.018117]
+loss for train : 0.034948
+start val!
+epoch 274, lr 0.012234:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9665
+mIoU for validation: 0.7949
+epoch 274, lr 0.012234: 100%|██████████| 3672/3672 [03:43<00:00, 16.44it/s, loss=0.036050]
+loss for train : 0.034673
+start val!
+precision per pixel for test: 0.9658
+mIoU for validation: 0.7945
+epoch 275, lr 0.012185: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.015805]
+loss for train : 0.034611
+start val!
+epoch 276, lr 0.012136:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9689
+mIoU for validation: 0.7982
+epoch 276, lr 0.012136: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.024782]
+loss for train : 0.034251
+start val!
+precision per pixel for test: 0.9678
+mIoU for validation: 0.8075
+epoch 277, lr 0.012088: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.014422]
+loss for train : 0.034903
+start val!
+precision per pixel for test: 0.9662
+mIoU for validation: 0.8029
+epoch 278, lr 0.012039: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.030649]
+loss for train : 0.034430
+start val!
+precision per pixel for test: 0.9691
+mIoU for validation: 0.8030
+epoch 279, lr 0.011990: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.065619]
+loss for train : 0.034928
+start val!
+epoch 280, lr 0.011941:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9700
+mIoU for validation: 0.8103
+epoch 280, lr 0.011941: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.015892]
+loss for train : 0.034161
+start val!
+precision per pixel for test: 0.9726
+mIoU for validation: 0.8181
+epoch 281, lr 0.011892: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.056503]
+loss for train : 0.035611
+start val!
+epoch 282, lr 0.011843:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9703
+mIoU for validation: 0.7961
+epoch 282, lr 0.011843: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.027789]
+loss for train : 0.034773
+start val!
+epoch 283, lr 0.011795:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9712
+mIoU for validation: 0.8050
+epoch 283, lr 0.011795: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.056579]
+loss for train : 0.034409
+start val!
+precision per pixel for test: 0.9577
+mIoU for validation: 0.7981
+epoch 284, lr 0.011746: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.025419]
+loss for train : 0.034373
+start val!
+precision per pixel for test: 0.9715
+mIoU for validation: 0.8057
+epoch 285, lr 0.011697: 100%|██████████| 3672/3672 [03:42<00:00, 16.52it/s, loss=0.030253]
+loss for train : 0.034303
+start val!
+precision per pixel for test: 0.9726
+mIoU for validation: 0.8250
+epoch 286, lr 0.011648: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.025790]
+loss for train : 0.033935
+start val!
+precision per pixel for test: 0.9710
+mIoU for validation: 0.8004
+epoch 287, lr 0.011599: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.031697]
+loss for train : 0.034191
+start val!
+epoch 288, lr 0.011550:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9692
+mIoU for validation: 0.8004
+epoch 288, lr 0.011550: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.033171]
+loss for train : 0.033764
+start val!
+precision per pixel for test: 0.9602
+mIoU for validation: 0.7159
+epoch 289, lr 0.011501: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.042088]
+loss for train : 0.034408
+start val!
+precision per pixel for test: 0.9676
+mIoU for validation: 0.7920
+epoch 290, lr 0.011452: 100%|██████████| 3672/3672 [03:42<00:00, 16.54it/s, loss=0.030678]
+loss for train : 0.033774
+start val!
+epoch 291, lr 0.011402:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9685
+mIoU for validation: 0.7913
+epoch 291, lr 0.011402: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.062449]
+loss for train : 0.033578
+start val!
+precision per pixel for test: 0.9655
+mIoU for validation: 0.7961
+epoch 292, lr 0.011353: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.033369]
+loss for train : 0.034350
+start val!
+precision per pixel for test: 0.9652
+mIoU for validation: 0.8030
+epoch 293, lr 0.011304: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.028933]
+loss for train : 0.033987
+start val!
+precision per pixel for test: 0.9654
+mIoU for validation: 0.7758
+epoch 294, lr 0.011255: 100%|██████████| 3672/3672 [03:42<00:00, 16.54it/s, loss=0.042851]
+loss for train : 0.034698
+start val!
+precision per pixel for test: 0.9673
+mIoU for validation: 0.8036
+epoch 295, lr 0.011206: 100%|██████████| 3672/3672 [03:43<00:00, 16.46it/s, loss=0.031234]
+loss for train : 0.034769
+start val!
+precision per pixel for test: 0.9687
+mIoU for validation: 0.8058
+epoch 296, lr 0.011157: 100%|██████████| 3672/3672 [03:39<00:00, 16.69it/s, loss=0.031755]
+loss for train : 0.035123
+start val!
+precision per pixel for test: 0.9701
+mIoU for validation: 0.7915
+epoch 297, lr 0.011107: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.027816]
+loss for train : 0.034438
+start val!
+precision per pixel for test: 0.9697
+mIoU for validation: 0.7993
+epoch 298, lr 0.011058: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.040369]
+loss for train : 0.036430
+start val!
+precision per pixel for test: 0.9674
+mIoU for validation: 0.7959
+epoch 299, lr 0.011009: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.037175]
+loss for train : 0.035217
+start val!
+precision per pixel for test: 0.9694
+mIoU for validation: 0.8086
+epoch 300, lr 0.010960: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.019956]
+loss for train : 0.034301
+start val!
+precision per pixel for test: 0.9713
+mIoU for validation: 0.8189
+epoch 301, lr 0.010910: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.040140]
+loss for train : 0.034649
+start val!
+precision per pixel for test: 0.9644
+mIoU for validation: 0.7758
+epoch 302, lr 0.010861: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.039888]
+loss for train : 0.033734
+start val!
+epoch 303, lr 0.010812:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9723
+mIoU for validation: 0.8140
+epoch 303, lr 0.010812: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.060799]
+loss for train : 0.033937
+start val!
+precision per pixel for test: 0.9703
+mIoU for validation: 0.8110
+epoch 304, lr 0.010762: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.033539]
+loss for train : 0.033640
+start val!
+epoch 305, lr 0.010713:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9699
+mIoU for validation: 0.8035
+epoch 305, lr 0.010713: 100%|██████████| 3672/3672 [03:43<00:00, 16.45it/s, loss=0.033031]
+loss for train : 0.034299
+start val!
+precision per pixel for test: 0.9716
+mIoU for validation: 0.8241
+epoch 306, lr 0.010663: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.041824]
+loss for train : 0.034500
+start val!
+precision per pixel for test: 0.9706
+mIoU for validation: 0.8052
+epoch 307, lr 0.010614: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.032632]
+loss for train : 0.033766
+start val!
+precision per pixel for test: 0.9680
+mIoU for validation: 0.7944
+epoch 308, lr 0.010564: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.036498]
+loss for train : 0.034231
+start val!
+precision per pixel for test: 0.9633
+mIoU for validation: 0.7742
+epoch 309, lr 0.010515: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.027176]
+loss for train : 0.034493
+start val!
+precision per pixel for test: 0.9684
+mIoU for validation: 0.8064
+epoch 310, lr 0.010465: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.038868]
+loss for train : 0.033003
+start val!
+precision per pixel for test: 0.9736
+mIoU for validation: 0.8309
+epoch 311, lr 0.010416: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.039628]
+loss for train : 0.033330
+start val!
+precision per pixel for test: 0.9706
+mIoU for validation: 0.8042
+epoch 312, lr 0.010366: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.038261]
+loss for train : 0.035405
+start val!
+epoch 313, lr 0.010316:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9689
+mIoU for validation: 0.7859
+epoch 313, lr 0.010316: 100%|██████████| 3672/3672 [03:39<00:00, 16.74it/s, loss=0.029821]
+loss for train : 0.033344
+start val!
+epoch 314, lr 0.010267:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9664
+mIoU for validation: 0.8023
+epoch 314, lr 0.010267: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.037864]
+loss for train : 0.033753
+start val!
+epoch 315, lr 0.010217:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9666
+mIoU for validation: 0.7960
+epoch 315, lr 0.010217: 100%|██████████| 3672/3672 [03:39<00:00, 16.74it/s, loss=0.027529]
+loss for train : 0.033796
+start val!
+precision per pixel for test: 0.9685
+mIoU for validation: 0.8099
+epoch 316, lr 0.010167: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.042441]
+loss for train : 0.033960
+start val!
+epoch 317, lr 0.010117:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9651
+mIoU for validation: 0.7865
+epoch 317, lr 0.010117: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.029934]
+loss for train : 0.034731
+start val!
+precision per pixel for test: 0.9668
+mIoU for validation: 0.8022
+epoch 318, lr 0.010068: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.036842]
+loss for train : 0.033494
+start val!
+epoch 319, lr 0.010018:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9658
+mIoU for validation: 0.7982
+epoch 319, lr 0.010018: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.033369]
+loss for train : 0.034550
+start val!
+precision per pixel for test: 0.9726
+mIoU for validation: 0.8154
+epoch 320, lr 0.009968: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.054322]
+loss for train : 0.034062
+start val!
+epoch 321, lr 0.009918:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9744
+mIoU for validation: 0.8225
+epoch 321, lr 0.009918: 100%|██████████| 3672/3672 [03:42<00:00, 16.50it/s, loss=0.031222]
+loss for train : 0.034230
+start val!
+precision per pixel for test: 0.9708
+mIoU for validation: 0.8202
+epoch 322, lr 0.009868: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.018641]
+loss for train : 0.033548
+start val!
+precision per pixel for test: 0.9717
+mIoU for validation: 0.8175
+epoch 323, lr 0.009818: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.021915]
+loss for train : 0.034034
+start val!
+epoch 324, lr 0.009769:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9711
+mIoU for validation: 0.7993
+epoch 324, lr 0.009769: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.030377]
+loss for train : 0.033915
+start val!
+epoch 325, lr 0.009719:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9721
+mIoU for validation: 0.8229
+epoch 325, lr 0.009719: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.017108]
+loss for train : 0.033822
+start val!
+epoch 326, lr 0.009669:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9693
+mIoU for validation: 0.8125
+epoch 326, lr 0.009669: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.043650]
+loss for train : 0.034219
+start val!
+precision per pixel for test: 0.9702
+mIoU for validation: 0.8146
+epoch 327, lr 0.009619: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.025825]
+loss for train : 0.034373
+start val!
+precision per pixel for test: 0.9708
+mIoU for validation: 0.8147
+epoch 328, lr 0.009568: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.041212]
+loss for train : 0.033296
+start val!
+precision per pixel for test: 0.9660
+mIoU for validation: 0.7697
+epoch 329, lr 0.009518: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.029801]
+loss for train : 0.033326
+start val!
+epoch 330, lr 0.009468:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9676
+mIoU for validation: 0.7879
+epoch 330, lr 0.009468: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.025909]
+loss for train : 0.033994
+start val!
+epoch 331, lr 0.009418:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9717
+mIoU for validation: 0.8181
+epoch 331, lr 0.009418: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.073173]
+loss for train : 0.033792
+start val!
+epoch 332, lr 0.009368:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9692
+mIoU for validation: 0.8070
+epoch 332, lr 0.009368: 100%|██████████| 3672/3672 [03:41<00:00, 16.56it/s, loss=0.023900]
+loss for train : 0.033410
+start val!
+precision per pixel for test: 0.9719
+mIoU for validation: 0.8063
+epoch 333, lr 0.009318: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.028462]
+loss for train : 0.033213
+start val!
+precision per pixel for test: 0.9726
+mIoU for validation: 0.8178
+epoch 334, lr 0.009268: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.026882]
+loss for train : 0.034016
+start val!
+precision per pixel for test: 0.9663
+mIoU for validation: 0.7948
+epoch 335, lr 0.009217: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.033788]
+loss for train : 0.034163
+start val!
+precision per pixel for test: 0.9689
+mIoU for validation: 0.7941
+epoch 336, lr 0.009167: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.034951]
+loss for train : 0.034433
+start val!
+precision per pixel for test: 0.9717
+mIoU for validation: 0.8069
+epoch 337, lr 0.009117: 100%|██████████| 3672/3672 [03:41<00:00, 16.58it/s, loss=0.014524]
+loss for train : 0.034000
+start val!
+precision per pixel for test: 0.9718
+mIoU for validation: 0.8126
+epoch 338, lr 0.009066: 100%|██████████| 3672/3672 [03:41<00:00, 16.58it/s, loss=0.039640]
+loss for train : 0.033175
+start val!
+precision per pixel for test: 0.9729
+mIoU for validation: 0.8118
+epoch 339, lr 0.009016: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.045826]
+loss for train : 0.033176
+start val!
+precision per pixel for test: 0.9713
+mIoU for validation: 0.8029
+epoch 340, lr 0.008966: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.012616]
+loss for train : 0.032767
+start val!
+epoch 341, lr 0.008915:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9682
+mIoU for validation: 0.7894
+epoch 341, lr 0.008915: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.027868]
+loss for train : 0.033070
+start val!
+precision per pixel for test: 0.9714
+mIoU for validation: 0.8154
+epoch 342, lr 0.008865: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.039358]
+loss for train : 0.033000
+start val!
+epoch 343, lr 0.008814:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9678
+mIoU for validation: 0.7984
+epoch 343, lr 0.008814: 100%|██████████| 3672/3672 [03:41<00:00, 16.57it/s, loss=0.029916]
+loss for train : 0.033811
+start val!
+epoch 344, lr 0.008764:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9691
+mIoU for validation: 0.8010
+epoch 344, lr 0.008764: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.041004]
+loss for train : 0.033858
+start val!
+epoch 345, lr 0.008713:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9694
+mIoU for validation: 0.7955
+epoch 345, lr 0.008713: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.029971]
+loss for train : 0.033420
+start val!
+precision per pixel for test: 0.9690
+mIoU for validation: 0.8200
+epoch 346, lr 0.008662: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.036345]
+loss for train : 0.032976
+start val!
+epoch 347, lr 0.008612:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9702
+mIoU for validation: 0.8121
+epoch 347, lr 0.008612: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.012707]
+loss for train : 0.033934
+start val!
+epoch 348, lr 0.008561:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9671
+mIoU for validation: 0.7888
+epoch 348, lr 0.008561: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.033419]
+loss for train : 0.033687
+start val!
+epoch 349, lr 0.008510:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9726
+mIoU for validation: 0.8203
+epoch 349, lr 0.008510: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.017803]
+loss for train : 0.033381
+start val!
+precision per pixel for test: 0.9698
+mIoU for validation: 0.8163
+epoch 350, lr 0.008460: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.029764]
+loss for train : 0.033302
+start val!
+precision per pixel for test: 0.9688
+mIoU for validation: 0.8048
+epoch 351, lr 0.008409: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.028168]
+loss for train : 0.033307
+start val!
+epoch 352, lr 0.008358:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9722
+mIoU for validation: 0.8143
+epoch 352, lr 0.008358: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.021305]
+loss for train : 0.032621
+start val!
+epoch 353, lr 0.008307:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9733
+mIoU for validation: 0.8143
+epoch 353, lr 0.008307: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.038110]
+loss for train : 0.032846
+start val!
+epoch 354, lr 0.008256:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9700
+mIoU for validation: 0.7989
+epoch 354, lr 0.008256: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.029305]
+loss for train : 0.032376
+start val!
+epoch 355, lr 0.008205:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9714
+mIoU for validation: 0.8089
+epoch 355, lr 0.008205: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.025081]
+loss for train : 0.032986
+start val!
+epoch 356, lr 0.008154:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9711
+mIoU for validation: 0.8078
+epoch 356, lr 0.008154: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.022610]
+loss for train : 0.033116
+start val!
+precision per pixel for test: 0.9706
+mIoU for validation: 0.8113
+epoch 357, lr 0.008103: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.021097]
+loss for train : 0.033146
+start val!
+epoch 358, lr 0.008052:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9674
+mIoU for validation: 0.7982
+epoch 358, lr 0.008052: 100%|██████████| 3672/3672 [03:41<00:00, 16.62it/s, loss=0.022500]
+loss for train : 0.032241
+start val!
+epoch 359, lr 0.008001:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9678
+mIoU for validation: 0.8141
+epoch 359, lr 0.008001: 100%|██████████| 3672/3672 [03:42<00:00, 16.48it/s, loss=0.035657]
+loss for train : 0.033484
+start val!
+precision per pixel for test: 0.9698
+mIoU for validation: 0.8083
+epoch 360, lr 0.007950: 100%|██████████| 3672/3672 [03:46<00:00, 16.23it/s, loss=0.033117]
+loss for train : 0.033643
+start val!
+epoch 361, lr 0.007899:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9718
+mIoU for validation: 0.8036
+epoch 361, lr 0.007899: 100%|██████████| 3672/3672 [03:44<00:00, 16.37it/s, loss=0.018176]
+loss for train : 0.032612
+start val!
+epoch 362, lr 0.007848:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9699
+mIoU for validation: 0.8011
+epoch 362, lr 0.007848: 100%|██████████| 3672/3672 [03:44<00:00, 16.38it/s, loss=0.034642]
+loss for train : 0.033201
+start val!
+precision per pixel for test: 0.9704
+mIoU for validation: 0.8141
+epoch 363, lr 0.007797: 100%|██████████| 3672/3672 [03:42<00:00, 16.49it/s, loss=0.020562]
+loss for train : 0.033417
+start val!
+epoch 364, lr 0.007746:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9701
+mIoU for validation: 0.8051
+epoch 364, lr 0.007746: 100%|██████████| 3672/3672 [03:43<00:00, 16.42it/s, loss=0.026410]
+loss for train : 0.032397
+start val!
+epoch 365, lr 0.007694:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9716
+mIoU for validation: 0.8132
+epoch 365, lr 0.007694: 100%|██████████| 3672/3672 [03:44<00:00, 16.35it/s, loss=0.029056]
+loss for train : 0.033228
+start val!
+precision per pixel for test: 0.9710
+mIoU for validation: 0.8035
+epoch 366, lr 0.007643: 100%|██████████| 3672/3672 [03:42<00:00, 16.50it/s, loss=0.025553]
+loss for train : 0.032914
+start val!
+precision per pixel for test: 0.9725
+mIoU for validation: 0.8217
+epoch 367, lr 0.007592: 100%|██████████| 3672/3672 [03:41<00:00, 16.57it/s, loss=0.027380]
+loss for train : 0.032870
+start val!
+precision per pixel for test: 0.9705
+mIoU for validation: 0.8185
+epoch 368, lr 0.007540: 100%|██████████| 3672/3672 [03:43<00:00, 16.46it/s, loss=0.034031]
+loss for train : 0.032940
+start val!
+precision per pixel for test: 0.9721
+mIoU for validation: 0.8245
+epoch 369, lr 0.007489: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.034189]
+loss for train : 0.033150
+start val!
+precision per pixel for test: 0.9690
+mIoU for validation: 0.7977
+epoch 370, lr 0.007437: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.023972]
+loss for train : 0.033060
+start val!
+epoch 371, lr 0.007386:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9714
+mIoU for validation: 0.8137
+epoch 371, lr 0.007386: 100%|██████████| 3672/3672 [03:41<00:00, 16.57it/s, loss=0.050302]
+loss for train : 0.032471
+start val!
+epoch 372, lr 0.007334:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9714
+mIoU for validation: 0.8017
+epoch 372, lr 0.007334: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.032494]
+loss for train : 0.032510
+start val!
+epoch 373, lr 0.007283:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9735
+mIoU for validation: 0.8248
+epoch 373, lr 0.007283: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.025381]
+loss for train : 0.033006
+start val!
+precision per pixel for test: 0.9688
+mIoU for validation: 0.7998
+epoch 374, lr 0.007231: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.023053]
+loss for train : 0.032704
+start val!
+epoch 375, lr 0.007179:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9674
+mIoU for validation: 0.8116
+epoch 375, lr 0.007179: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.039258]
+loss for train : 0.032299
+start val!
+epoch 376, lr 0.007128:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9710
+mIoU for validation: 0.8068
+epoch 376, lr 0.007128: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.032801]
+loss for train : 0.032671
+start val!
+precision per pixel for test: 0.9717
+mIoU for validation: 0.8063
+epoch 377, lr 0.007076: 100%|██████████| 3672/3672 [03:44<00:00, 16.33it/s, loss=0.017504]
+loss for train : 0.032950
+start val!
+precision per pixel for test: 0.9679
+mIoU for validation: 0.8165
+epoch 378, lr 0.007024: 100%|██████████| 3672/3672 [03:38<00:00, 16.82it/s, loss=0.022894]
+loss for train : 0.033380
+start val!
+epoch 379, lr 0.006972:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9711
+mIoU for validation: 0.8162
+epoch 379, lr 0.006972: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.035603]
+loss for train : 0.032179
+start val!
+precision per pixel for test: 0.9704
+mIoU for validation: 0.7983
+epoch 380, lr 0.006920: 100%|██████████| 3672/3672 [03:42<00:00, 16.50it/s, loss=0.035078]
+loss for train : 0.033676
+start val!
+precision per pixel for test: 0.9709
+mIoU for validation: 0.8082
+epoch 381, lr 0.006868: 100%|██████████| 3672/3672 [03:41<00:00, 16.55it/s, loss=0.028809]
+loss for train : 0.033122
+start val!
+precision per pixel for test: 0.9739
+mIoU for validation: 0.8205
+epoch 382, lr 0.006816: 100%|██████████| 3672/3672 [03:42<00:00, 16.52it/s, loss=0.028126]
+loss for train : 0.032865
+start val!
+precision per pixel for test: 0.9742
+mIoU for validation: 0.8205
+epoch 383, lr 0.006764: 100%|██████████| 3672/3672 [03:43<00:00, 16.45it/s, loss=0.029404]
+loss for train : 0.032579
+start val!
+epoch 384, lr 0.006712:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9712
+mIoU for validation: 0.8191
+epoch 384, lr 0.006712: 100%|██████████| 3672/3672 [03:39<00:00, 16.74it/s, loss=0.044542]
+loss for train : 0.032041
+start val!
+precision per pixel for test: 0.9725
+mIoU for validation: 0.8262
+epoch 385, lr 0.006660: 100%|██████████| 3672/3672 [03:38<00:00, 16.79it/s, loss=0.045703]
+loss for train : 0.032741
+start val!
+epoch 386, lr 0.006608:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9735
+mIoU for validation: 0.8218
+epoch 386, lr 0.006608: 100%|██████████| 3672/3672 [03:38<00:00, 16.79it/s, loss=0.012224]
+loss for train : 0.032344
+start val!
+precision per pixel for test: 0.9694
+mIoU for validation: 0.7999
+epoch 387, lr 0.006556: 100%|██████████| 3672/3672 [03:38<00:00, 16.78it/s, loss=0.019302]
+loss for train : 0.032472
+start val!
+precision per pixel for test: 0.9704
+mIoU for validation: 0.8148
+epoch 388, lr 0.006504: 100%|██████████| 3672/3672 [03:39<00:00, 16.74it/s, loss=0.021409]
+loss for train : 0.032258
+start val!
+precision per pixel for test: 0.9727
+mIoU for validation: 0.8242
+epoch 389, lr 0.006451: 100%|██████████| 3672/3672 [03:38<00:00, 16.77it/s, loss=0.022915]
+loss for train : 0.032831
+start val!
+precision per pixel for test: 0.9720
+mIoU for validation: 0.8195
+epoch 390, lr 0.006399: 100%|██████████| 3672/3672 [03:39<00:00, 16.76it/s, loss=0.028892]
+loss for train : 0.032976
+start val!
+precision per pixel for test: 0.9706
+mIoU for validation: 0.8228
+epoch 391, lr 0.006347: 100%|██████████| 3672/3672 [03:42<00:00, 16.53it/s, loss=0.029150]
+loss for train : 0.032495
+start val!
+precision per pixel for test: 0.9731
+mIoU for validation: 0.8278
+epoch 392, lr 0.006294: 100%|██████████| 3672/3672 [03:43<00:00, 16.45it/s, loss=0.026668]
+loss for train : 0.032523
+start val!
+precision per pixel for test: 0.9569
+mIoU for validation: 0.7018
+epoch 393, lr 0.006242: 100%|██████████| 3672/3672 [03:41<00:00, 16.56it/s, loss=0.020770]
+loss for train : 0.032886
+start val!
+epoch 394, lr 0.006189:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9681
+mIoU for validation: 0.8124
+epoch 394, lr 0.006189: 100%|██████████| 3672/3672 [03:43<00:00, 16.45it/s, loss=0.031735]
+loss for train : 0.033464
+start val!
+epoch 395, lr 0.006137:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9736
+mIoU for validation: 0.8208
+epoch 395, lr 0.006137: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.012256]
+loss for train : 0.031779
+start val!
+precision per pixel for test: 0.9740
+mIoU for validation: 0.8250
+epoch 396, lr 0.006084: 100%|██████████| 3672/3672 [03:42<00:00, 16.50it/s, loss=0.019648]
+loss for train : 0.032724
+start val!
+epoch 397, lr 0.006031:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9716
+mIoU for validation: 0.8106
+epoch 397, lr 0.006031: 100%|██████████| 3672/3672 [03:45<00:00, 16.31it/s, loss=0.020623]
+loss for train : 0.032442
+start val!
+precision per pixel for test: 0.9734
+mIoU for validation: 0.8231
+epoch 398, lr 0.005979: 100%|██████████| 3672/3672 [03:42<00:00, 16.47it/s, loss=0.040713]
+loss for train : 0.033800
+start val!
+precision per pixel for test: 0.9710
+mIoU for validation: 0.8101
+epoch 399, lr 0.005926: 100%|██████████| 3672/3672 [03:46<00:00, 16.23it/s, loss=0.034328]
+loss for train : 0.032621
+start val!
+precision per pixel for test: 0.9724
+mIoU for validation: 0.8100
+epoch 400, lr 0.005873: 100%|██████████| 3672/3672 [03:45<00:00, 16.31it/s, loss=0.020891]
+loss for train : 0.032154
+start val!
+epoch 401, lr 0.005820:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9704
+mIoU for validation: 0.8021
+epoch 401, lr 0.005820: 100%|██████████| 3672/3672 [03:44<00:00, 16.36it/s, loss=0.021894]
+loss for train : 0.032538
+start val!
+precision per pixel for test: 0.9731
+mIoU for validation: 0.8121
+epoch 402, lr 0.005767: 100%|██████████| 3672/3672 [03:42<00:00, 16.52it/s, loss=0.057684]
+loss for train : 0.031598
+start val!
+precision per pixel for test: 0.9733
+mIoU for validation: 0.8108
+epoch 403, lr 0.005714: 100%|██████████| 3672/3672 [03:43<00:00, 16.40it/s, loss=0.031026]
+loss for train : 0.032242
+start val!
+epoch 404, lr 0.005661:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9697
+mIoU for validation: 0.8142
+epoch 404, lr 0.005661: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.032892]
+loss for train : 0.032939
+start val!
+precision per pixel for test: 0.9707
+mIoU for validation: 0.8171
+epoch 405, lr 0.005608: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.029168]
+loss for train : 0.033342
+start val!
+precision per pixel for test: 0.9692
+mIoU for validation: 0.8065
+epoch 406, lr 0.005555: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.035498]
+loss for train : 0.032653
+start val!
+precision per pixel for test: 0.9718
+mIoU for validation: 0.8103
+epoch 407, lr 0.005502: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.012233]
+loss for train : 0.032013
+start val!
+precision per pixel for test: 0.9713
+mIoU for validation: 0.8196
+epoch 408, lr 0.005448: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.033610]
+loss for train : 0.033237
+start val!
+epoch 409, lr 0.005395:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9755
+mIoU for validation: 0.8212
+epoch 409, lr 0.005395: 100%|██████████| 3672/3672 [03:44<00:00, 16.38it/s, loss=0.037229]
+loss for train : 0.032382
+start val!
+epoch 410, lr 0.005342:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9751
+mIoU for validation: 0.8274
+epoch 410, lr 0.005342: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.023066]
+loss for train : 0.031806
+start val!
+epoch 411, lr 0.005288:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9689
+mIoU for validation: 0.7964
+epoch 411, lr 0.005288: 100%|██████████| 3672/3672 [03:39<00:00, 16.75it/s, loss=0.029212]
+loss for train : 0.032271
+start val!
+epoch 412, lr 0.005235:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9717
+mIoU for validation: 0.8083
+epoch 412, lr 0.005235: 100%|██████████| 3672/3672 [03:47<00:00, 16.17it/s, loss=0.022578]
+loss for train : 0.032441
+start val!
+precision per pixel for test: 0.9712
+mIoU for validation: 0.8104
+epoch 413, lr 0.005181: 100%|██████████| 3672/3672 [03:41<00:00, 16.57it/s, loss=0.026601]
+loss for train : 0.031783
+start val!
+precision per pixel for test: 0.9739
+mIoU for validation: 0.8172
+epoch 414, lr 0.005128: 100%|██████████| 3672/3672 [03:44<00:00, 16.38it/s, loss=0.022604]
+loss for train : 0.032316
+start val!
+precision per pixel for test: 0.9715
+mIoU for validation: 0.8153
+epoch 415, lr 0.005074: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.081697]
+loss for train : 0.031634
+start val!
+precision per pixel for test: 0.9724
+mIoU for validation: 0.8220
+epoch 416, lr 0.005020: 100%|██████████| 3672/3672 [03:39<00:00, 16.74it/s, loss=0.031165]
+loss for train : 0.032586
+start val!
+precision per pixel for test: 0.9728
+mIoU for validation: 0.8125
+epoch 417, lr 0.004966: 100%|██████████| 3672/3672 [04:15<00:00, 14.35it/s, loss=0.021160]
+loss for train : 0.032225
+start val!
+epoch 418, lr 0.004912:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9714
+mIoU for validation: 0.8068
+epoch 418, lr 0.004912: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.019880]
+loss for train : 0.031963
+start val!
+precision per pixel for test: 0.9692
+mIoU for validation: 0.8053
+epoch 419, lr 0.004859: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.021990]
+loss for train : 0.031434
+start val!
+epoch 420, lr 0.004804:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9737
+mIoU for validation: 0.8195
+epoch 420, lr 0.004804: 100%|██████████| 3672/3672 [03:42<00:00, 16.53it/s, loss=0.034819]
+loss for train : 0.031723
+start val!
+epoch 421, lr 0.004750:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9737
+mIoU for validation: 0.8153
+epoch 421, lr 0.004750: 100%|██████████| 3672/3672 [03:48<00:00, 16.08it/s, loss=0.025444]
+loss for train : 0.031824
+start val!
+precision per pixel for test: 0.9729
+mIoU for validation: 0.8173
+epoch 422, lr 0.004696: 100%|██████████| 3672/3672 [03:46<00:00, 16.19it/s, loss=0.017317]
+loss for train : 0.032082
+start val!
+precision per pixel for test: 0.9709
+mIoU for validation: 0.8093
+epoch 423, lr 0.004642: 100%|██████████| 3672/3672 [03:46<00:00, 16.24it/s, loss=0.040839]
+loss for train : 0.031464
+start val!
+epoch 424, lr 0.004588:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9715
+mIoU for validation: 0.8096
+epoch 424, lr 0.004588: 100%|██████████| 3672/3672 [03:43<00:00, 16.43it/s, loss=0.060118]
+loss for train : 0.032202
+start val!
+epoch 425, lr 0.004533:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9705
+mIoU for validation: 0.7973
+epoch 425, lr 0.004533: 100%|██████████| 3672/3672 [03:45<00:00, 16.30it/s, loss=0.033598]
+loss for train : 0.031375
+start val!
+precision per pixel for test: 0.9729
+mIoU for validation: 0.8038
+epoch 426, lr 0.004479: 100%|██████████| 3672/3672 [03:45<00:00, 16.28it/s, loss=0.028427]
+loss for train : 0.031771
+start val!
+epoch 427, lr 0.004424:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9737
+mIoU for validation: 0.8248
+epoch 427, lr 0.004424: 100%|██████████| 3672/3672 [03:45<00:00, 16.31it/s, loss=0.032586]
+loss for train : 0.031507
+start val!
+epoch 428, lr 0.004370:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9737
+mIoU for validation: 0.8210
+epoch 428, lr 0.004370: 100%|██████████| 3672/3672 [03:46<00:00, 16.23it/s, loss=0.025257]
+loss for train : 0.031806
+start val!
+precision per pixel for test: 0.9711
+mIoU for validation: 0.8084
+epoch 429, lr 0.004315: 100%|██████████| 3672/3672 [03:44<00:00, 16.39it/s, loss=0.021378]
+loss for train : 0.031891
+start val!
+precision per pixel for test: 0.9702
+mIoU for validation: 0.8136
+epoch 430, lr 0.004260: 100%|██████████| 3672/3672 [03:47<00:00, 16.12it/s, loss=0.020915]
+loss for train : 0.031962
+start val!
+precision per pixel for test: 0.9734
+mIoU for validation: 0.8231
+epoch 431, lr 0.004206: 100%|██████████| 3672/3672 [03:50<00:00, 15.91it/s, loss=0.018932]
+loss for train : 0.031366
+start val!
+epoch 432, lr 0.004151:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9745
+mIoU for validation: 0.8236
+epoch 432, lr 0.004151: 100%|██████████| 3672/3672 [03:43<00:00, 16.43it/s, loss=0.042017]
+loss for train : 0.031650
+start val!
+precision per pixel for test: 0.9723
+mIoU for validation: 0.8225
+epoch 433, lr 0.004096: 100%|██████████| 3672/3672 [03:42<00:00, 16.48it/s, loss=0.036019]
+loss for train : 0.031409
+start val!
+precision per pixel for test: 0.9724
+mIoU for validation: 0.8195
+epoch 434, lr 0.004041: 100%|██████████| 3672/3672 [03:43<00:00, 16.44it/s, loss=0.038326]
+loss for train : 0.031452
+start val!
+precision per pixel for test: 0.9733
+mIoU for validation: 0.8104
+epoch 435, lr 0.003986: 100%|██████████| 3672/3672 [03:49<00:00, 15.99it/s, loss=0.016811]
+loss for train : 0.031630
+start val!
+epoch 436, lr 0.003930:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9754
+mIoU for validation: 0.8236
+epoch 436, lr 0.003930: 100%|██████████| 3672/3672 [03:44<00:00, 16.34it/s, loss=0.026616]
+loss for train : 0.031812
+start val!
+epoch 437, lr 0.003875:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9732
+mIoU for validation: 0.8235
+epoch 437, lr 0.003875: 100%|██████████| 3672/3672 [03:43<00:00, 16.40it/s, loss=0.039785]
+loss for train : 0.031778
+start val!
+precision per pixel for test: 0.9737
+mIoU for validation: 0.8202
+epoch 438, lr 0.003820: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.014882]
+loss for train : 0.031408
+start val!
+epoch 439, lr 0.003764:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9725
+mIoU for validation: 0.8170
+epoch 439, lr 0.003764: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.023291]
+loss for train : 0.031519
+start val!
+precision per pixel for test: 0.9759
+mIoU for validation: 0.8324
+epoch 440, lr 0.003709: 100%|██████████| 3672/3672 [03:42<00:00, 16.54it/s, loss=0.013208]
+loss for train : 0.031417
+start val!
+precision per pixel for test: 0.9706
+mIoU for validation: 0.8185
+epoch 441, lr 0.003653: 100%|██████████| 3672/3672 [03:41<00:00, 16.56it/s, loss=0.027303]
+loss for train : 0.031024
+start val!
+precision per pixel for test: 0.9693
+mIoU for validation: 0.8084
+epoch 442, lr 0.003597: 100%|██████████| 3672/3672 [03:43<00:00, 16.46it/s, loss=0.020754]
+loss for train : 0.031397
+start val!
+precision per pixel for test: 0.9725
+mIoU for validation: 0.8160
+epoch 443, lr 0.003541: 100%|██████████| 3672/3672 [03:41<00:00, 16.57it/s, loss=0.043859]
+loss for train : 0.031613
+start val!
+precision per pixel for test: 0.9737
+mIoU for validation: 0.8188
+epoch 444, lr 0.003485: 100%|██████████| 3672/3672 [03:39<00:00, 16.72it/s, loss=0.020774]
+loss for train : 0.031106
+start val!
+epoch 445, lr 0.003429:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9753
+mIoU for validation: 0.8294
+epoch 445, lr 0.003429: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.055464]
+loss for train : 0.031632
+start val!
+precision per pixel for test: 0.9749
+mIoU for validation: 0.8303
+epoch 446, lr 0.003373: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.026001]
+loss for train : 0.031530
+start val!
+precision per pixel for test: 0.9743
+mIoU for validation: 0.8188
+epoch 447, lr 0.003317: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.043374]
+loss for train : 0.031451
+start val!
+precision per pixel for test: 0.9741
+mIoU for validation: 0.8193
+epoch 448, lr 0.003260: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.026395]
+loss for train : 0.030864
+start val!
+precision per pixel for test: 0.9738
+mIoU for validation: 0.8222
+epoch 449, lr 0.003204: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.057929]
+loss for train : 0.031738
+start val!
+precision per pixel for test: 0.9735
+mIoU for validation: 0.8208
+epoch 450, lr 0.003147: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.026601]
+loss for train : 0.031084
+start val!
+precision per pixel for test: 0.9733
+mIoU for validation: 0.8195
+epoch 451, lr 0.003091: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.036507]
+loss for train : 0.030603
+start val!
+precision per pixel for test: 0.9739
+mIoU for validation: 0.8248
+epoch 452, lr 0.003034: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.040122]
+loss for train : 0.030667
+start val!
+precision per pixel for test: 0.9751
+mIoU for validation: 0.8283
+epoch 453, lr 0.002977: 100%|██████████| 3672/3672 [03:41<00:00, 16.58it/s, loss=0.025961]
+loss for train : 0.030695
+start val!
+epoch 454, lr 0.002920:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9742
+mIoU for validation: 0.8209
+epoch 454, lr 0.002920: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.019308]
+loss for train : 0.031157
+start val!
+precision per pixel for test: 0.9732
+mIoU for validation: 0.8142
+epoch 455, lr 0.002863: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.025012]
+loss for train : 0.031249
+start val!
+precision per pixel for test: 0.9748
+mIoU for validation: 0.8297
+epoch 456, lr 0.002805: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.029942]
+loss for train : 0.031077
+start val!
+epoch 457, lr 0.002748:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9749
+mIoU for validation: 0.8280
+epoch 457, lr 0.002748: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.042717]
+loss for train : 0.030897
+start val!
+precision per pixel for test: 0.9718
+mIoU for validation: 0.8102
+epoch 458, lr 0.002690: 100%|██████████| 3672/3672 [03:39<00:00, 16.75it/s, loss=0.026409]
+loss for train : 0.030556
+start val!
+precision per pixel for test: 0.9727
+mIoU for validation: 0.8157
+epoch 459, lr 0.002633: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.014694]
+loss for train : 0.031022
+start val!
+precision per pixel for test: 0.9732
+mIoU for validation: 0.8169
+epoch 460, lr 0.002575: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.030244]
+loss for train : 0.030806
+start val!
+epoch 461, lr 0.002517:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9734
+mIoU for validation: 0.8161
+epoch 461, lr 0.002517: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.030378]
+loss for train : 0.030872
+start val!
+precision per pixel for test: 0.9751
+mIoU for validation: 0.8268
+epoch 462, lr 0.002459: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.033877]
+loss for train : 0.030638
+start val!
+epoch 463, lr 0.002400:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9744
+mIoU for validation: 0.8257
+epoch 463, lr 0.002400: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.024289]
+loss for train : 0.030910
+start val!
+precision per pixel for test: 0.9740
+mIoU for validation: 0.8206
+epoch 464, lr 0.002342: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.036852]
+loss for train : 0.031224
+start val!
+epoch 465, lr 0.002283:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9739
+mIoU for validation: 0.8276
+epoch 465, lr 0.002283: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.025840]
+loss for train : 0.030159
+start val!
+precision per pixel for test: 0.9721
+mIoU for validation: 0.8195
+epoch 466, lr 0.002224: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.031153]
+loss for train : 0.030720
+start val!
+epoch 467, lr 0.002165:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9751
+mIoU for validation: 0.8298
+epoch 467, lr 0.002165: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.025070]
+loss for train : 0.030033
+start val!
+epoch 468, lr 0.002106:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9746
+mIoU for validation: 0.8268
+epoch 468, lr 0.002106: 100%|██████████| 3672/3672 [04:15<00:00, 14.40it/s, loss=0.034025]
+loss for train : 0.030885
+start val!
+precision per pixel for test: 0.9747
+mIoU for validation: 0.8253
+epoch 469, lr 0.002047: 100%|██████████| 3672/3672 [03:40<00:00, 16.62it/s, loss=0.009876]
+loss for train : 0.030545
+start val!
+epoch 470, lr 0.001987:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9741
+mIoU for validation: 0.8204
+epoch 470, lr 0.001987: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.017607]
+loss for train : 0.030653
+start val!
+precision per pixel for test: 0.9736
+mIoU for validation: 0.8217
+epoch 471, lr 0.001928: 100%|██████████| 3672/3672 [03:42<00:00, 16.47it/s, loss=0.022480]
+loss for train : 0.030367
+start val!
+precision per pixel for test: 0.9740
+mIoU for validation: 0.8270
+epoch 472, lr 0.001868: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.019473]
+loss for train : 0.030364
+start val!
+precision per pixel for test: 0.9738
+mIoU for validation: 0.8196
+epoch 473, lr 0.001808: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.032907]
+loss for train : 0.029927
+start val!
+precision per pixel for test: 0.9741
+mIoU for validation: 0.8252
+epoch 474, lr 0.001747: 100%|██████████| 3672/3672 [03:43<00:00, 16.43it/s, loss=0.032878]
+loss for train : 0.030570
+start val!
+precision per pixel for test: 0.9743
+mIoU for validation: 0.8213
+epoch 475, lr 0.001687: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.022944]
+loss for train : 0.030514
+start val!
+precision per pixel for test: 0.9741
+mIoU for validation: 0.8166
+epoch 476, lr 0.001626: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.025323]
+loss for train : 0.030477
+start val!
+precision per pixel for test: 0.9732
+mIoU for validation: 0.8198
+epoch 477, lr 0.001565: 100%|██████████| 3672/3672 [03:41<00:00, 16.58it/s, loss=0.034988]
+loss for train : 0.029866
+start val!
+epoch 478, lr 0.001503:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9744
+mIoU for validation: 0.8213
+epoch 478, lr 0.001503: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.038604]
+loss for train : 0.029842
+start val!
+epoch 479, lr 0.001442:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9756
+mIoU for validation: 0.8281
+epoch 479, lr 0.001442: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.021074]
+loss for train : 0.030150
+start val!
+precision per pixel for test: 0.9737
+mIoU for validation: 0.8200
+epoch 480, lr 0.001380: 100%|██████████| 3672/3672 [03:39<00:00, 16.69it/s, loss=0.037421]
+loss for train : 0.029980
+start val!
+epoch 481, lr 0.001317:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9748
+mIoU for validation: 0.8301
+epoch 481, lr 0.001317: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.039658]
+loss for train : 0.029937
+start val!
+precision per pixel for test: 0.9747
+mIoU for validation: 0.8266
+epoch 482, lr 0.001255: 100%|██████████| 3672/3672 [03:40<00:00, 16.69it/s, loss=0.018864]
+loss for train : 0.030075
+start val!
+precision per pixel for test: 0.9754
+mIoU for validation: 0.8194
+epoch 483, lr 0.001192: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.036858]
+loss for train : 0.030208
+start val!
+epoch 484, lr 0.001129:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9742
+mIoU for validation: 0.8197
+epoch 484, lr 0.001129: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.029162]
+loss for train : 0.029836
+start val!
+precision per pixel for test: 0.9742
+mIoU for validation: 0.8211
+epoch 485, lr 0.001065: 100%|██████████| 3672/3672 [03:40<00:00, 16.66it/s, loss=0.039038]
+loss for train : 0.029821
+start val!
+epoch 486, lr 0.001001:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9752
+mIoU for validation: 0.8285
+epoch 486, lr 0.001001: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.034801]
+loss for train : 0.030003
+start val!
+precision per pixel for test: 0.9752
+mIoU for validation: 0.8299
+epoch 487, lr 0.000936: 100%|██████████| 3672/3672 [03:40<00:00, 16.63it/s, loss=0.021417]
+loss for train : 0.029802
+start val!
+epoch 488, lr 0.000871:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9748
+mIoU for validation: 0.8270
+epoch 488, lr 0.000871: 100%|██████████| 3672/3672 [03:40<00:00, 16.64it/s, loss=0.032450]
+loss for train : 0.029944
+start val!
+epoch 489, lr 0.000806:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9750
+mIoU for validation: 0.8237
+epoch 489, lr 0.000806: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.020384]
+loss for train : 0.029468
+start val!
+epoch 490, lr 0.000739:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9750
+mIoU for validation: 0.8224
+epoch 490, lr 0.000739: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.028898]
+loss for train : 0.029577
+start val!
+epoch 491, lr 0.000672:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9754
+mIoU for validation: 0.8251
+epoch 491, lr 0.000672: 100%|██████████| 3672/3672 [03:40<00:00, 16.68it/s, loss=0.021074]
+loss for train : 0.029893
+start val!
+precision per pixel for test: 0.9761
+mIoU for validation: 0.8295
+epoch 492, lr 0.000605: 100%|██████████| 3672/3672 [03:40<00:00, 16.67it/s, loss=0.033847]
+loss for train : 0.029696
+start val!
+epoch 493, lr 0.000536:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9750
+mIoU for validation: 0.8289
+epoch 493, lr 0.000536: 100%|██████████| 3672/3672 [03:41<00:00, 16.60it/s, loss=0.025791]
+loss for train : 0.029254
+start val!
+precision per pixel for test: 0.9757
+mIoU for validation: 0.8324
+epoch 494, lr 0.000467: 100%|██████████| 3672/3672 [03:39<00:00, 16.70it/s, loss=0.067553]
+loss for train : 0.029365
+start val!
+epoch 495, lr 0.000396:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9760
+mIoU for validation: 0.8310
+epoch 495, lr 0.000396: 100%|██████████| 3672/3672 [03:41<00:00, 16.59it/s, loss=0.023721]
+loss for train : 0.029514
+start val!
+precision per pixel for test: 0.9760
+mIoU for validation: 0.8324
+epoch 496, lr 0.000324: 100%|██████████| 3672/3672 [03:39<00:00, 16.73it/s, loss=0.037757]
+loss for train : 0.029290
+start val!
+epoch 497, lr 0.000250:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9754
+mIoU for validation: 0.8273
+epoch 497, lr 0.000250: 100%|██████████| 3672/3672 [03:39<00:00, 16.71it/s, loss=0.026524]
+loss for train : 0.029300
+start val!
+precision per pixel for test: 0.9755
+mIoU for validation: 0.8263
+epoch 498, lr 0.000174: 100%|██████████| 3672/3672 [03:41<00:00, 16.61it/s, loss=0.011030]
+loss for train : 0.029592
+start val!
+epoch 499, lr 0.000093:   0%|          | 0/3672 [00:00<?, ?it/s]precision per pixel for test: 0.9757
+mIoU for validation: 0.8289
+epoch 499, lr 0.000093: 100%|██████████| 3672/3672 [03:40<00:00, 16.65it/s, loss=0.037948]
+loss for train : 0.029265
+start val!
+precision per pixel for test: 0.9756
+mIoU for validation: 0.8322
+
+Process finished with exit code 0
